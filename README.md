@@ -2,7 +2,7 @@
 
 Final exam project, Data Science module.
 
-**Author:** _<your name>_
+**Author:** _<Yana Atanasova>_
 **Date:** November 2026
 
 ## Project Goal
