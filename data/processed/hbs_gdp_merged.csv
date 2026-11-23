@@ -1,0 +1,1417 @@
+country,year,category,OBS_VALUE,share_pct,imputed,value_excl,share_excl_pct,gdp_pc_ppp
+Austria,2005,Food and non-alcoholic beverages,130,13.0,82.0,130,14.161220043572985,34776.6699535218
+Austria,2010,Food and non-alcoholic beverages,121,12.1,89.0,121,13.282107574094402,41735.4574798744
+Austria,2015,Food and non-alcoholic beverages,118,11.8,92.0,118,12.995594713656388,49549.3162311441
+Austria,2020,Food and non-alcoholic beverages,120,12.0,87.0,120,13.143483023001096,58523.0337816246
+Belgium,2005,Food and non-alcoholic beverages,135,13.5,134.0,135,15.58891454965358,33177.8909458158
+Belgium,2010,Food and non-alcoholic beverages,132,13.2,131.0,132,15.189873417721518,39839.9772772918
+Belgium,2015,Food and non-alcoholic beverages,129,12.9,153.0,129,15.230224321133411,46071.914889496
+Belgium,2020,Food and non-alcoholic beverages,159,15.9,184.0,159,19.485294117647058,56120.0958420466
+Bulgaria,2005,Food and non-alcoholic beverages,315,31.5,219.0,315,40.33290653008963,10291.425046769
+Bulgaria,2010,Food and non-alcoholic beverages,293,29.3,245.0,293,38.80794701986755,14954.2908464673
+Bulgaria,2015,Food and non-alcoholic beverages,266,26.6,194.0,266,33.002481389578165,18896.1145714262
+Bulgaria,2020,Food and non-alcoholic beverages,246,24.6,217.0,246,31.417624521072796,27351.8659900682
+Cyprus,2005,Food and non-alcoholic beverages,151,15.1,137.0,151,17.497103128621088,27763.15234375
+Cyprus,2010,Food and non-alcoholic beverages,123,12.3,168.0,123,14.783653846153847,33502.24609375
+Cyprus,2015,Food and non-alcoholic beverages,153,15.3,154.0,153,18.085106382978722,31380.220703125
+Cyprus,2020,Food and non-alcoholic beverages,153,15.3,154.0,153,18.085106382978722,42569.06640625
+Czechia,2010,Food and non-alcoholic beverages,203,20.3,0.0,203,20.3,28153.8518610007
+Czechia,2015,Food and non-alcoholic beverages,211,21.1,0.0,211,21.1,34093.0280593748
+Czechia,2020,Food and non-alcoholic beverages,207,20.7,0.0,207,20.7,44839.4822099455
+Germany,2005,Food and non-alcoholic beverages,112,11.2,116.0,112,12.669683257918551,32313.736788417
+Germany,2010,Food and non-alcoholic beverages,116,11.6,118.0,116,13.151927437641723,39713.9503169931
+Germany,2015,Food and non-alcoholic beverages,116,11.6,136.0,116,13.425925925925926,48567.1117562648
+Germany,2020,Food and non-alcoholic beverages,112,11.2,137.0,112,12.977983777520278,58704.5861986404
+Denmark,2005,Food and non-alcoholic beverages,119,11.9,104.0,119,13.28125,34238.3218147437
+Denmark,2010,Food and non-alcoholic beverages,118,11.8,109.0,118,13.24354657687991,43037.5989192487
+Denmark,2015,Food and non-alcoholic beverages,120,12.0,121.0,120,13.651877133105803,48897.2099776611
+Denmark,2020,Food and non-alcoholic beverages,123,12.3,132.0,123,14.170506912442397,62682.2899474389
+Estonia,2005,Food and non-alcoholic beverages,225,22.5,171.0,225,27.141133896260556,16638.0779749397
+Estonia,2010,Food and non-alcoholic beverages,233,23.3,127.0,233,26.689576174112258,21614.3068307361
+Estonia,2015,Food and non-alcoholic beverages,207,20.7,125.0,207,23.65714285714286,29712.6299473728
+Estonia,2020,Food and non-alcoholic beverages,186,18.6,195.0,186,23.1055900621118,40672.1340402132
+Greece,2005,Food and non-alcoholic beverages,155,15.5,142.0,155,18.065268065268064,25003.8297466933
+Greece,2010,Food and non-alcoholic beverages,160,16.0,142.0,160,18.64801864801865,27838.73639086
+Greece,2015,Food and non-alcoholic beverages,188,18.8,166.0,188,22.54196642685851,26607.7256796976
+Greece,2020,Food and non-alcoholic beverages,199,19.9,197.0,199,24.782067247820674,29533.087740299
+Spain,2005,Food and non-alcoholic beverages,180,18.0,229.0,180,23.346303501945524,27629.7077024966
+Spain,2010,Food and non-alcoholic beverages,144,14.4,200.0,144,18.0,31804.6746571689
+Spain,2015,Food and non-alcoholic beverages,150,15.0,209.0,150,18.963337547408344,35228.6333036223
+Spain,2020,Food and non-alcoholic beverages,170,17.0,234.0,170,22.193211488250654,39327.8479269599
+Finland,2005,Food and non-alcoholic beverages,127,12.7,179.0,127,15.468940316686966,32047.7069315564
+Finland,2010,Food and non-alcoholic beverages,130,13.0,162.0,130,15.513126491646778,38946.228265358
+Finland,2015,Food and non-alcoholic beverages,120,12.0,151.0,120,14.134275618374557,42257.8593791297
+Finland,2020,Food and non-alcoholic beverages,144,14.4,152.0,144,16.9811320754717,53296.5792798852
+France,2005,Food and non-alcoholic beverages,134,13.4,120.0,134,15.227272727272727,30431.2367240202
+France,2010,Food and non-alcoholic beverages,158,15.8,134.0,158,18.244803695150114,35907.5531031574
+France,2015,Food and non-alcoholic beverages,143,14.3,150.0,143,16.823529411764707,40905.1767750994
+France,2020,Food and non-alcoholic beverages,143,14.3,150.0,143,16.823529411764707,49481.8044309655
+Croatia,2005,Food and non-alcoholic beverages,271,27.1,185.0,271,33.25153374233129,15450.6908485826
+Croatia,2010,Food and non-alcoholic beverages,256,25.6,204.0,256,32.1608040201005,20139.3171606116
+Croatia,2015,Food and non-alcoholic beverages,240,24.0,185.0,240,29.447852760736197,23749.8280957224
+Croatia,2020,Food and non-alcoholic beverages,210,21.0,200.0,210,26.25,31594.0082486835
+Hungary,2010,Food and non-alcoholic beverages,186,18.6,188.0,186,22.9064039408867,21690.9866477738
+Hungary,2015,Food and non-alcoholic beverages,199,19.9,196.0,199,24.751243781094526,26937.7320818864
+Hungary,2020,Food and non-alcoholic beverages,163,16.3,376.0,163,26.121794871794872,35583.5855675637
+Ireland,2005,Food and non-alcoholic beverages,123,12.3,137.0,123,14.25260718424102,40466.2343515711
+Ireland,2010,Food and non-alcoholic beverages,122,12.2,160.0,122,14.523809523809524,43162.9939992062
+Ireland,2015,Food and non-alcoholic beverages,115,11.5,188.0,115,14.16256157635468,71519.6014840656
+Ireland,2020,Food and non-alcoholic beverages,121,12.1,220.0,121,15.512820512820513,97677.4943055886
+Italy,2010,Food and non-alcoholic beverages,186,18.6,196.0,186,23.134328358208954,34974.1045135807
+Italy,2015,Food and non-alcoholic beverages,179,17.9,238.0,179,23.490813648293962,37384.3796455406
+Italy,2020,Food and non-alcoholic beverages,203,20.3,255.0,203,27.248322147651006,44435.6434393527
+Lithuania,2005,Food and non-alcoholic beverages,338,33.8,78.0,338,36.65943600867679,13951.3261880977
+Lithuania,2010,Food and non-alcoholic beverages,285,28.5,182.0,285,34.84107579462103,18718.9043711358
+Lithuania,2015,Food and non-alcoholic beverages,244,24.4,224.0,244,31.443298969072163,26948.5919371645
+Lithuania,2020,Food and non-alcoholic beverages,235,23.5,215.0,235,29.936305732484076,41262.7276941725
+Luxembourg,2005,Food and non-alcoholic beverages,93,9.3,197.0,93,11.581569115815691,68787.9115407203
+Luxembourg,2010,Food and non-alcoholic beverages,88,8.8,215.0,88,11.210191082802547,90336.0184704033
+Luxembourg,2015,Food and non-alcoholic beverages,87,8.7,215.0,87,11.0828025477707,107859.685999308
+Luxembourg,2020,Food and non-alcoholic beverages,94,9.4,214.0,94,11.959287531806616,122066.739147202
+Latvia,2005,Food and non-alcoholic beverages,292,29.2,57.0,292,30.965005302226935,12825.873779559
+Latvia,2010,Food and non-alcoholic beverages,261,26.1,85.0,261,28.524590163934427,16373.4037320495
+Latvia,2015,Food and non-alcoholic beverages,240,24.0,95.0,240,26.519337016574585,22543.9183164105
+Latvia,2020,Food and non-alcoholic beverages,205,20.5,119.0,205,23.26901248581158,32741.4207691987
+Montenegro,2010,Food and non-alcoholic beverages,399,39.9,222.0,399,51.2853470437018,13612.3242240322
+Montenegro,2015,Food and non-alcoholic beverages,285,28.5,169.0,285,34.29602888086642,16091.7231229959
+Montenegro,2020,Food and non-alcoholic beverages,307,30.7,173.0,307,37.12212817412334,20624.7887553398
+North Macedonia,2010,Food and non-alcoholic beverages,433,43.3,0.0,433,43.3,11992.2104751893
+North Macedonia,2015,Food and non-alcoholic beverages,433,43.3,0.0,433,43.3,15034.1775526118
+Malta,2010,Food and non-alcoholic beverages,222,22.2,0.0,222,22.2,28909.2634787626
+Malta,2015,Food and non-alcoholic beverages,198,19.8,0.0,198,19.8,38368.726998344
+Malta,2020,Food and non-alcoholic beverages,198,19.8,0.0,198,19.8,49971.8904481582
+Netherlands,2005,Food and non-alcoholic beverages,105,10.5,102.0,105,11.692650334075724,37778.4864360065
+Netherlands,2010,Food and non-alcoholic beverages,100,10.0,115.0,100,11.299435028248588,45301.269581608
+Netherlands,2015,Food and non-alcoholic beverages,106,10.6,144.0,106,12.383177570093459,50956.6930942185
+Netherlands,2020,Food and non-alcoholic beverages,116,11.6,146.0,116,13.583138173302109,62596.6302027524
+Norway,2005,Food and non-alcoholic beverages,117,11.7,115.0,117,13.220338983050848,48189.4962722156
+Norway,2010,Food and non-alcoholic beverages,118,11.8,160.0,118,14.047619047619047,59439.3769599791
+Norway,2015,Food and non-alcoholic beverages,118,11.8,171.0,118,14.234016887816647,62695.3563994725
+Norway,2020,Food and non-alcoholic beverages,119,11.9,198.0,119,14.83790523690773,69779.2862630574
+Poland,2005,Food and non-alcoholic beverages,255,25.5,137.0,255,29.548088064889917,13935.5573148214
+Poland,2010,Food and non-alcoholic beverages,227,22.7,142.0,227,26.456876456876458,20990.9122325468
+Poland,2015,Food and non-alcoholic beverages,211,21.1,164.0,211,25.239234449760765,26988.1069013509
+Poland,2020,Food and non-alcoholic beverages,247,24.7,159.0,247,29.369797859690845,37089.3004256812
+Portugal,2005,Food and non-alcoholic beverages,155,15.5,186.0,155,19.04176904176904,22725.2774946084
+Portugal,2010,Food and non-alcoholic beverages,133,13.3,179.0,133,16.199756394640684,27292.0819531528
+Portugal,2015,Food and non-alcoholic beverages,143,14.3,200.0,143,17.875,29608.0071513956
+Romania,2010,Food and non-alcoholic beverages,315,31.5,232.0,315,41.015625,17354.7164981302
+Romania,2015,Food and non-alcoholic beverages,302,30.2,212.0,302,38.3248730964467,21624.5759002018
+Serbia,2015,Food and non-alcoholic beverages,296,29.6,168.0,296,35.57692307692308,15546.3082680414
+Serbia,2020,Food and non-alcoholic beverages,288,28.8,161.0,288,34.32657926102503,21013.0562995823
+Sweden,2010,Food and non-alcoholic beverages,127,12.7,150.0,127,14.941176470588236,41951.2525597117
+Sweden,2015,Food and non-alcoholic beverages,117,11.7,146.0,117,13.70023419203747,48762.7456496975
+Slovenia,2005,Food and non-alcoholic beverages,167,16.7,125.0,167,19.085714285714285,23682.3710849153
+Slovenia,2010,Food and non-alcoholic beverages,145,14.5,182.0,145,17.726161369193154,27579.428605763
+Slovenia,2015,Food and non-alcoholic beverages,145,14.5,132.0,145,16.705069124423964,31336.2043858881
+Slovenia,2020,Food and non-alcoholic beverages,137,13.7,126.0,137,15.675057208237986,41767.2579899957
+Slovakia,2005,Food and non-alcoholic beverages,245,24.5,91.0,245,26.952695269526952,16570.2574196157
+Slovakia,2010,Food and non-alcoholic beverages,220,22.0,135.0,220,25.433526011560694,25381.7112298749
+Slovakia,2015,Food and non-alcoholic beverages,195,19.5,133.0,195,22.491349480968857,30147.9903672541
+Slovakia,2020,Food and non-alcoholic beverages,202,20.2,160.0,202,24.047619047619047,35327.9439165588
+Türkiye,2005,Food and non-alcoholic beverages,261,26.1,122.0,261,29.726651480637813,11803.3604424476
+Türkiye,2010,Food and non-alcoholic beverages,225,22.5,139.0,225,26.13240418118467,17468.1996643291
+Türkiye,2015,Food and non-alcoholic beverages,197,19.7,122.0,197,22.4373576309795,25896.983315375
+Türkiye,2020,Food and non-alcoholic beverages,204,20.4,116.0,204,23.076923076923077,29209.3308866883
+United Kingdom,2005,Food and non-alcoholic beverages,99,9.9,175.0,99,12.0,32831.4184106349
+United Kingdom,2010,Food and non-alcoholic beverages,126,12.6,0.0,126,12.6,36648.8219451957
+United Kingdom,2015,Food and non-alcoholic beverages,121,12.1,0.0,121,12.1,42772.4983791214
+Kosovo*,2015,Food and non-alcoholic beverages,427,42.7,23.0,427,43.70522006141249,8714.91966356132
+Austria,2005,"Alcoholic beverages, tobacco and narcotics",28,2.8,82.0,28,3.0501089324618738,34776.6699535218
+Austria,2010,"Alcoholic beverages, tobacco and narcotics",24,2.4,89.0,24,2.6344676180021955,41735.4574798744
+Austria,2015,"Alcoholic beverages, tobacco and narcotics",23,2.3,92.0,23,2.5330396475770924,49549.3162311441
+Austria,2020,"Alcoholic beverages, tobacco and narcotics",24,2.4,87.0,24,2.628696604600219,58523.0337816246
+Belgium,2005,"Alcoholic beverages, tobacco and narcotics",22,2.2,134.0,22,2.540415704387991,33177.8909458158
+Belgium,2010,"Alcoholic beverages, tobacco and narcotics",21,2.1,131.0,21,2.4165707710011506,39839.9772772918
+Belgium,2015,"Alcoholic beverages, tobacco and narcotics",20,2.0,153.0,20,2.3612750885478158,46071.914889496
+Belgium,2020,"Alcoholic beverages, tobacco and narcotics",22,2.2,184.0,22,2.696078431372549,56120.0958420466
+Bulgaria,2005,"Alcoholic beverages, tobacco and narcotics",38,3.8,219.0,38,4.865556978233035,10291.425046769
+Bulgaria,2010,"Alcoholic beverages, tobacco and narcotics",40,4.0,245.0,40,5.298013245033113,14954.2908464673
+Bulgaria,2015,"Alcoholic beverages, tobacco and narcotics",42,4.2,194.0,42,5.2109181141439205,18896.1145714262
+Bulgaria,2020,"Alcoholic beverages, tobacco and narcotics",41,4.1,217.0,41,5.236270753512133,27351.8659900682
+Cyprus,2005,"Alcoholic beverages, tobacco and narcotics",19,1.9,137.0,19,2.20162224797219,27763.15234375
+Cyprus,2010,"Alcoholic beverages, tobacco and narcotics",13,1.3,168.0,13,1.5625,33502.24609375
+Cyprus,2015,"Alcoholic beverages, tobacco and narcotics",16,1.6,154.0,16,1.8912529550827424,31380.220703125
+Cyprus,2020,"Alcoholic beverages, tobacco and narcotics",16,1.6,154.0,16,1.8912529550827424,42569.06640625
+Czechia,2010,"Alcoholic beverages, tobacco and narcotics",29,2.9,0.0,29,2.9,28153.8518610007
+Czechia,2015,"Alcoholic beverages, tobacco and narcotics",31,3.1,0.0,31,3.1,34093.0280593748
+Czechia,2020,"Alcoholic beverages, tobacco and narcotics",33,3.3,0.0,33,3.3,44839.4822099455
+Germany,2005,"Alcoholic beverages, tobacco and narcotics",17,1.7,116.0,17,1.9230769230769231,32313.736788417
+Germany,2010,"Alcoholic beverages, tobacco and narcotics",16,1.6,118.0,16,1.8140589569160999,39713.9503169931
+Germany,2015,"Alcoholic beverages, tobacco and narcotics",16,1.6,136.0,16,1.8518518518518519,48567.1117562648
+Germany,2020,"Alcoholic beverages, tobacco and narcotics",16,1.6,137.0,16,1.853997682502897,58704.5861986404
+Denmark,2005,"Alcoholic beverages, tobacco and narcotics",33,3.3,104.0,33,3.6830357142857144,34238.3218147437
+Denmark,2010,"Alcoholic beverages, tobacco and narcotics",28,2.8,109.0,28,3.142536475869809,43037.5989192487
+Denmark,2015,"Alcoholic beverages, tobacco and narcotics",23,2.3,121.0,23,2.616609783845279,48897.2099776611
+Denmark,2020,"Alcoholic beverages, tobacco and narcotics",22,2.2,132.0,22,2.5345622119815667,62682.2899474389
+Estonia,2005,"Alcoholic beverages, tobacco and narcotics",28,2.8,171.0,28,3.3775633293124248,16638.0779749397
+Estonia,2010,"Alcoholic beverages, tobacco and narcotics",31,3.1,127.0,31,3.5509736540664374,21614.3068307361
+Estonia,2015,"Alcoholic beverages, tobacco and narcotics",32,3.2,125.0,32,3.657142857142857,29712.6299473728
+Estonia,2020,"Alcoholic beverages, tobacco and narcotics",27,2.7,195.0,27,3.3540372670807455,40672.1340402132
+Greece,2005,"Alcoholic beverages, tobacco and narcotics",34,3.4,142.0,34,3.9627039627039626,25003.8297466933
+Greece,2010,"Alcoholic beverages, tobacco and narcotics",30,3.0,142.0,30,3.4965034965034967,27838.73639086
+Greece,2015,"Alcoholic beverages, tobacco and narcotics",35,3.5,166.0,35,4.196642685851319,26607.7256796976
+Greece,2020,"Alcoholic beverages, tobacco and narcotics",32,3.2,197.0,32,3.9850560398505603,29533.087740299
+Spain,2005,"Alcoholic beverages, tobacco and narcotics",23,2.3,229.0,23,2.9831387808041505,27629.7077024966
+Spain,2010,"Alcoholic beverages, tobacco and narcotics",21,2.1,200.0,21,2.625,31804.6746571689
+Spain,2015,"Alcoholic beverages, tobacco and narcotics",19,1.9,209.0,19,2.402022756005057,35228.6333036223
+Spain,2020,"Alcoholic beverages, tobacco and narcotics",19,1.9,234.0,19,2.480417754569191,39327.8479269599
+Finland,2005,"Alcoholic beverages, tobacco and narcotics",24,2.4,179.0,24,2.92326431181486,32047.7069315564
+Finland,2010,"Alcoholic beverages, tobacco and narcotics",23,2.3,162.0,23,2.7446300715990453,38946.228265358
+Finland,2015,"Alcoholic beverages, tobacco and narcotics",22,2.2,151.0,22,2.5912838633686692,42257.8593791297
+Finland,2020,"Alcoholic beverages, tobacco and narcotics",20,2.0,152.0,20,2.358490566037736,53296.5792798852
+France,2005,"Alcoholic beverages, tobacco and narcotics",23,2.3,120.0,23,2.6136363636363638,30431.2367240202
+France,2010,"Alcoholic beverages, tobacco and narcotics",26,2.6,134.0,26,3.0023094688221708,35907.5531031574
+France,2015,"Alcoholic beverages, tobacco and narcotics",25,2.5,150.0,25,2.9411764705882355,40905.1767750994
+France,2020,"Alcoholic beverages, tobacco and narcotics",25,2.5,150.0,25,2.9411764705882355,49481.8044309655
+Croatia,2005,"Alcoholic beverages, tobacco and narcotics",33,3.3,185.0,33,4.049079754601227,15450.6908485826
+Croatia,2010,"Alcoholic beverages, tobacco and narcotics",30,3.0,204.0,30,3.7688442211055277,20139.3171606116
+Croatia,2015,"Alcoholic beverages, tobacco and narcotics",27,2.7,185.0,27,3.312883435582822,23749.8280957224
+Croatia,2020,"Alcoholic beverages, tobacco and narcotics",21,2.1,200.0,21,2.625,31594.0082486835
+Hungary,2010,"Alcoholic beverages, tobacco and narcotics",26,2.6,188.0,26,3.2019704433497536,21690.9866477738
+Hungary,2015,"Alcoholic beverages, tobacco and narcotics",27,2.7,196.0,27,3.3582089552238807,26937.7320818864
+Hungary,2020,"Alcoholic beverages, tobacco and narcotics",23,2.3,376.0,23,3.6858974358974357,35583.5855675637
+Ireland,2005,"Alcoholic beverages, tobacco and narcotics",56,5.6,137.0,56,6.488991888760139,40466.2343515711
+Ireland,2010,"Alcoholic beverages, tobacco and narcotics",32,3.2,160.0,32,3.8095238095238093,43162.9939992062
+Ireland,2015,"Alcoholic beverages, tobacco and narcotics",23,2.3,188.0,23,2.832512315270936,71519.6014840656
+Ireland,2020,"Alcoholic beverages, tobacco and narcotics",21,2.1,220.0,21,2.6923076923076925,97677.4943055886
+Italy,2010,"Alcoholic beverages, tobacco and narcotics",17,1.7,196.0,17,2.1144278606965172,34974.1045135807
+Italy,2015,"Alcoholic beverages, tobacco and narcotics",18,1.8,238.0,18,2.3622047244094486,37384.3796455406
+Italy,2020,"Alcoholic beverages, tobacco and narcotics",18,1.8,255.0,18,2.4161073825503356,44435.6434393527
+Lithuania,2005,"Alcoholic beverages, tobacco and narcotics",35,3.5,78.0,35,3.7960954446854664,13951.3261880977
+Lithuania,2010,"Alcoholic beverages, tobacco and narcotics",32,3.2,182.0,32,3.9119804400977993,18718.9043711358
+Lithuania,2015,"Alcoholic beverages, tobacco and narcotics",31,3.1,224.0,31,3.9948453608247423,26948.5919371645
+Lithuania,2020,"Alcoholic beverages, tobacco and narcotics",23,2.3,215.0,23,2.929936305732484,41262.7276941725
+Luxembourg,2005,"Alcoholic beverages, tobacco and narcotics",17,1.7,197.0,17,2.1170610211706102,68787.9115407203
+Luxembourg,2010,"Alcoholic beverages, tobacco and narcotics",14,1.4,215.0,14,1.78343949044586,90336.0184704033
+Luxembourg,2015,"Alcoholic beverages, tobacco and narcotics",13,1.3,215.0,13,1.6560509554140128,107859.685999308
+Luxembourg,2020,"Alcoholic beverages, tobacco and narcotics",14,1.4,214.0,14,1.7811704834605597,122066.739147202
+Latvia,2005,"Alcoholic beverages, tobacco and narcotics",31,3.1,57.0,31,3.2873806998939554,12825.873779559
+Latvia,2010,"Alcoholic beverages, tobacco and narcotics",31,3.1,85.0,31,3.387978142076503,16373.4037320495
+Latvia,2015,"Alcoholic beverages, tobacco and narcotics",30,3.0,95.0,30,3.314917127071823,22543.9183164105
+Latvia,2020,"Alcoholic beverages, tobacco and narcotics",25,2.5,119.0,25,2.837684449489217,32741.4207691987
+Montenegro,2010,"Alcoholic beverages, tobacco and narcotics",35,3.5,222.0,35,4.4987146529562985,13612.3242240322
+Montenegro,2015,"Alcoholic beverages, tobacco and narcotics",31,3.1,169.0,31,3.730445246690734,16091.7231229959
+Montenegro,2020,"Alcoholic beverages, tobacco and narcotics",28,2.8,173.0,28,3.3857315598548974,20624.7887553398
+North Macedonia,2010,"Alcoholic beverages, tobacco and narcotics",41,4.1,0.0,41,4.1,11992.2104751893
+North Macedonia,2015,"Alcoholic beverages, tobacco and narcotics",40,4.0,0.0,40,4.0,15034.1775526118
+Malta,2010,"Alcoholic beverages, tobacco and narcotics",24,2.4,0.0,24,2.4,28909.2634787626
+Malta,2015,"Alcoholic beverages, tobacco and narcotics",23,2.3,0.0,23,2.3,38368.726998344
+Malta,2020,"Alcoholic beverages, tobacco and narcotics",24,2.4,0.0,24,2.4,49971.8904481582
+Netherlands,2005,"Alcoholic beverages, tobacco and narcotics",21,2.1,102.0,21,2.338530066815145,37778.4864360065
+Netherlands,2010,"Alcoholic beverages, tobacco and narcotics",18,1.8,115.0,18,2.0338983050847457,45301.269581608
+Netherlands,2015,"Alcoholic beverages, tobacco and narcotics",29,2.9,144.0,29,3.3878504672897196,50956.6930942185
+Netherlands,2020,"Alcoholic beverages, tobacco and narcotics",31,3.1,146.0,31,3.629976580796253,62596.6302027524
+Norway,2005,"Alcoholic beverages, tobacco and narcotics",31,3.1,115.0,31,3.5028248587570623,48189.4962722156
+Norway,2010,"Alcoholic beverages, tobacco and narcotics",26,2.6,160.0,26,3.0952380952380953,59439.3769599791
+Norway,2015,"Alcoholic beverages, tobacco and narcotics",27,2.7,171.0,27,3.2569360675512664,62695.3563994725
+Norway,2020,"Alcoholic beverages, tobacco and narcotics",22,2.2,198.0,22,2.743142144638404,69779.2862630574
+Poland,2005,"Alcoholic beverages, tobacco and narcotics",25,2.5,137.0,25,2.8968713789107765,13935.5573148214
+Poland,2010,"Alcoholic beverages, tobacco and narcotics",25,2.5,142.0,25,2.913752913752914,20990.9122325468
+Poland,2015,"Alcoholic beverages, tobacco and narcotics",22,2.2,164.0,22,2.6315789473684212,26988.1069013509
+Poland,2020,"Alcoholic beverages, tobacco and narcotics",26,2.6,159.0,26,3.0915576694411415,37089.3004256812
+Portugal,2005,"Alcoholic beverages, tobacco and narcotics",23,2.3,186.0,23,2.8255528255528257,22725.2774946084
+Portugal,2010,"Alcoholic beverages, tobacco and narcotics",19,1.9,179.0,19,2.3142509135200973,27292.0819531528
+Portugal,2015,"Alcoholic beverages, tobacco and narcotics",16,1.6,200.0,16,2.0,29608.0071513956
+Romania,2010,"Alcoholic beverages, tobacco and narcotics",59,5.9,232.0,59,7.682291666666667,17354.7164981302
+Romania,2015,"Alcoholic beverages, tobacco and narcotics",61,6.1,212.0,61,7.741116751269035,21624.5759002018
+Serbia,2015,"Alcoholic beverages, tobacco and narcotics",38,3.8,168.0,38,4.5673076923076925,15546.3082680414
+Serbia,2020,"Alcoholic beverages, tobacco and narcotics",41,4.1,161.0,41,4.886769964243147,21013.0562995823
+Sweden,2010,"Alcoholic beverages, tobacco and narcotics",20,2.0,150.0,20,2.3529411764705883,41951.2525597117
+Sweden,2015,"Alcoholic beverages, tobacco and narcotics",18,1.8,146.0,18,2.107728337236534,48762.7456496975
+Slovenia,2005,"Alcoholic beverages, tobacco and narcotics",24,2.4,125.0,24,2.742857142857143,23682.3710849153
+Slovenia,2010,"Alcoholic beverages, tobacco and narcotics",19,1.9,182.0,19,2.3227383863080684,27579.428605763
+Slovenia,2015,"Alcoholic beverages, tobacco and narcotics",18,1.8,132.0,18,2.0737327188940093,31336.2043858881
+Slovenia,2020,"Alcoholic beverages, tobacco and narcotics",17,1.7,126.0,17,1.9450800915331807,41767.2579899957
+Slovakia,2005,"Alcoholic beverages, tobacco and narcotics",28,2.8,91.0,28,3.08030803080308,16570.2574196157
+Slovakia,2010,"Alcoholic beverages, tobacco and narcotics",30,3.0,135.0,30,3.468208092485549,25381.7112298749
+Slovakia,2015,"Alcoholic beverages, tobacco and narcotics",27,2.7,133.0,27,3.114186851211073,30147.9903672541
+Slovakia,2020,"Alcoholic beverages, tobacco and narcotics",26,2.6,160.0,26,3.0952380952380953,35327.9439165588
+Türkiye,2005,"Alcoholic beverages, tobacco and narcotics",42,4.2,122.0,42,4.783599088838269,11803.3604424476
+Türkiye,2010,"Alcoholic beverages, tobacco and narcotics",41,4.1,139.0,41,4.761904761904762,17468.1996643291
+Türkiye,2015,"Alcoholic beverages, tobacco and narcotics",43,4.3,122.0,43,4.89749430523918,25896.983315375
+Türkiye,2020,"Alcoholic beverages, tobacco and narcotics",43,4.3,116.0,43,4.864253393665158,29209.3308866883
+United Kingdom,2005,"Alcoholic beverages, tobacco and narcotics",24,2.4,175.0,24,2.909090909090909,32831.4184106349
+United Kingdom,2010,"Alcoholic beverages, tobacco and narcotics",28,2.8,0.0,28,2.8,36648.8219451957
+United Kingdom,2015,"Alcoholic beverages, tobacco and narcotics",24,2.4,0.0,24,2.4,42772.4983791214
+Kosovo*,2015,"Alcoholic beverages, tobacco and narcotics",41,4.1,23.0,41,4.1965199590583415,8714.91966356132
+Austria,2005,Clothing and footwear,56,5.6,82.0,56,6.1002178649237475,34776.6699535218
+Austria,2010,Clothing and footwear,57,5.7,89.0,57,6.256860592755214,41735.4574798744
+Austria,2015,Clothing and footwear,49,4.9,92.0,49,5.39647577092511,49549.3162311441
+Austria,2020,Clothing and footwear,42,4.2,87.0,42,4.600219058050383,58523.0337816246
+Belgium,2005,Clothing and footwear,47,4.7,134.0,47,5.427251732101617,33177.8909458158
+Belgium,2010,Clothing and footwear,45,4.5,131.0,45,5.178365937859609,39839.9772772918
+Belgium,2015,Clothing and footwear,45,4.5,153.0,45,5.312868949232586,46071.914889496
+Belgium,2020,Clothing and footwear,34,3.4,184.0,34,4.166666666666667,56120.0958420466
+Bulgaria,2005,Clothing and footwear,31,3.1,219.0,31,3.9692701664532652,10291.425046769
+Bulgaria,2010,Clothing and footwear,25,2.5,245.0,25,3.3112582781456954,14954.2908464673
+Bulgaria,2015,Clothing and footwear,35,3.5,194.0,35,4.3424317617866,18896.1145714262
+Bulgaria,2020,Clothing and footwear,30,3.0,217.0,30,3.8314176245210727,27351.8659900682
+Cyprus,2005,Clothing and footwear,77,7.7,137.0,77,8.922363847045192,27763.15234375
+Cyprus,2010,Clothing and footwear,68,6.8,168.0,68,8.173076923076923,33502.24609375
+Cyprus,2015,Clothing and footwear,58,5.8,154.0,58,6.855791962174941,31380.220703125
+Cyprus,2020,Clothing and footwear,58,5.8,154.0,58,6.855791962174941,42569.06640625
+Czechia,2010,Clothing and footwear,52,5.2,0.0,52,5.2,28153.8518610007
+Czechia,2015,Clothing and footwear,53,5.3,0.0,53,5.3,34093.0280593748
+Czechia,2020,Clothing and footwear,44,4.4,0.0,44,4.4,44839.4822099455
+Germany,2005,Clothing and footwear,48,4.8,116.0,48,5.429864253393665,32313.736788417
+Germany,2010,Clothing and footwear,44,4.4,118.0,44,4.988662131519274,39713.9503169931
+Germany,2015,Clothing and footwear,47,4.7,136.0,47,5.439814814814815,48567.1117562648
+Germany,2020,Clothing and footwear,43,4.3,137.0,43,4.9826187717265356,58704.5861986404
+Denmark,2005,Clothing and footwear,49,4.9,104.0,49,5.46875,34238.3218147437
+Denmark,2010,Clothing and footwear,52,5.2,109.0,52,5.836139169472503,43037.5989192487
+Denmark,2015,Clothing and footwear,41,4.1,121.0,41,4.664391353811149,48897.2099776611
+Denmark,2020,Clothing and footwear,36,3.6,132.0,36,4.147465437788019,62682.2899474389
+Estonia,2005,Clothing and footwear,55,5.5,171.0,55,6.634499396863691,16638.0779749397
+Estonia,2010,Clothing and footwear,40,4.0,127.0,40,4.581901489117984,21614.3068307361
+Estonia,2015,Clothing and footwear,47,4.7,125.0,47,5.371428571428571,29712.6299473728
+Estonia,2020,Clothing and footwear,40,4.0,195.0,40,4.968944099378882,40672.1340402132
+Greece,2005,Clothing and footwear,70,7.0,142.0,70,8.158508158508159,25003.8297466933
+Greece,2010,Clothing and footwear,60,6.0,142.0,60,6.993006993006993,27838.73639086
+Greece,2015,Clothing and footwear,49,4.9,166.0,49,5.875299760191846,26607.7256796976
+Greece,2020,Clothing and footwear,38,3.8,197.0,38,4.732254047322541,29533.087740299
+Spain,2005,Clothing and footwear,69,6.9,229.0,69,8.949416342412452,27629.7077024966
+Spain,2010,Clothing and footwear,56,5.6,200.0,56,7.0,31804.6746571689
+Spain,2015,Clothing and footwear,51,5.1,209.0,51,6.447534766118837,35228.6333036223
+Spain,2020,Clothing and footwear,37,3.7,234.0,37,4.830287206266319,39327.8479269599
+Finland,2005,Clothing and footwear,38,3.8,179.0,38,4.6285018270401945,32047.7069315564
+Finland,2010,Clothing and footwear,34,3.4,162.0,34,4.05727923627685,38946.228265358
+Finland,2015,Clothing and footwear,30,3.0,151.0,30,3.5335689045936394,42257.8593791297
+Finland,2020,Clothing and footwear,44,4.4,152.0,44,5.188679245283019,53296.5792798852
+France,2005,Clothing and footwear,66,6.6,120.0,66,7.5,30431.2367240202
+France,2010,Clothing and footwear,40,4.0,134.0,40,4.618937644341801,35907.5531031574
+France,2015,Clothing and footwear,40,4.0,150.0,40,4.705882352941177,40905.1767750994
+France,2020,Clothing and footwear,40,4.0,150.0,40,4.705882352941177,49481.8044309655
+Croatia,2005,Clothing and footwear,63,6.3,185.0,63,7.730061349693251,15450.6908485826
+Croatia,2010,Clothing and footwear,51,5.1,204.0,51,6.407035175879397,20139.3171606116
+Croatia,2015,Clothing and footwear,55,5.5,185.0,55,6.748466257668712,23749.8280957224
+Croatia,2020,Clothing and footwear,65,6.5,200.0,65,8.125,31594.0082486835
+Hungary,2010,Clothing and footwear,32,3.2,188.0,32,3.9408866995073892,21690.9866477738
+Hungary,2015,Clothing and footwear,34,3.4,196.0,34,4.2288557213930345,26937.7320818864
+Hungary,2020,Clothing and footwear,24,2.4,376.0,24,3.8461538461538463,35583.5855675637
+Ireland,2005,Clothing and footwear,51,5.1,137.0,51,5.909617612977984,40466.2343515711
+Ireland,2010,Clothing and footwear,54,5.4,160.0,54,6.428571428571429,43162.9939992062
+Ireland,2015,Clothing and footwear,43,4.3,188.0,43,5.295566502463054,71519.6014840656
+Ireland,2020,Clothing and footwear,40,4.0,220.0,40,5.128205128205129,97677.4943055886
+Italy,2010,Clothing and footwear,64,6.4,196.0,64,7.960199004975125,34974.1045135807
+Italy,2015,Clothing and footwear,47,4.7,238.0,47,6.167979002624672,37384.3796455406
+Italy,2020,Clothing and footwear,38,3.8,255.0,38,5.100671140939597,44435.6434393527
+Lithuania,2005,Clothing and footwear,79,7.9,78.0,79,8.568329718004339,13951.3261880977
+Lithuania,2010,Clothing and footwear,70,7.0,182.0,70,8.557457212713937,18718.9043711358
+Lithuania,2015,Clothing and footwear,54,5.4,224.0,54,6.958762886597938,26948.5919371645
+Lithuania,2020,Clothing and footwear,48,4.8,215.0,48,6.114649681528663,41262.7276941725
+Luxembourg,2005,Clothing and footwear,64,6.4,197.0,64,7.970112079701121,68787.9115407203
+Luxembourg,2010,Clothing and footwear,62,6.2,215.0,62,7.898089171974522,90336.0184704033
+Luxembourg,2015,Clothing and footwear,53,5.3,215.0,53,6.751592356687898,107859.685999308
+Luxembourg,2020,Clothing and footwear,44,4.4,214.0,44,5.597964376590331,122066.739147202
+Latvia,2005,Clothing and footwear,73,7.3,57.0,73,7.741251325556734,12825.873779559
+Latvia,2010,Clothing and footwear,54,5.4,85.0,54,5.901639344262295,16373.4037320495
+Latvia,2015,Clothing and footwear,55,5.5,95.0,55,6.077348066298343,22543.9183164105
+Latvia,2020,Clothing and footwear,47,4.7,119.0,47,5.334846765039727,32741.4207691987
+Montenegro,2010,Clothing and footwear,74,7.4,222.0,74,9.511568123393316,13612.3242240322
+Montenegro,2015,Clothing and footwear,71,7.1,169.0,71,8.543922984356197,16091.7231229959
+Montenegro,2020,Clothing and footwear,81,8.1,173.0,81,9.794437726723096,20624.7887553398
+North Macedonia,2010,Clothing and footwear,66,6.6,0.0,66,6.6,11992.2104751893
+North Macedonia,2015,Clothing and footwear,66,6.6,0.0,66,6.6,15034.1775526118
+Malta,2010,Clothing and footwear,71,7.1,0.0,71,7.1,28909.2634787626
+Malta,2015,Clothing and footwear,79,7.9,0.0,79,7.9,38368.726998344
+Malta,2020,Clothing and footwear,79,7.9,0.0,79,7.9,49971.8904481582
+Netherlands,2005,Clothing and footwear,58,5.8,102.0,58,6.458797327394209,37778.4864360065
+Netherlands,2010,Clothing and footwear,51,5.1,115.0,51,5.762711864406779,45301.269581608
+Netherlands,2015,Clothing and footwear,45,4.5,144.0,45,5.257009345794392,50956.6930942185
+Netherlands,2020,Clothing and footwear,36,3.6,146.0,36,4.215456674473068,62596.6302027524
+Norway,2005,Clothing and footwear,56,5.6,115.0,56,6.327683615819209,48189.4962722156
+Norway,2010,Clothing and footwear,53,5.3,160.0,53,6.309523809523809,59439.3769599791
+Norway,2015,Clothing and footwear,54,5.4,171.0,54,6.513872135102533,62695.3563994725
+Norway,2020,Clothing and footwear,36,3.6,198.0,36,4.488778054862843,69779.2862630574
+Poland,2005,Clothing and footwear,46,4.6,137.0,46,5.330243337195829,13935.5573148214
+Poland,2010,Clothing and footwear,48,4.8,142.0,48,5.594405594405594,20990.9122325468
+Poland,2015,Clothing and footwear,48,4.8,164.0,48,5.741626794258373,26988.1069013509
+Poland,2020,Clothing and footwear,37,3.7,159.0,37,4.399524375743163,37089.3004256812
+Portugal,2005,Clothing and footwear,41,4.1,186.0,41,5.036855036855036,22725.2774946084
+Portugal,2010,Clothing and footwear,37,3.7,179.0,37,4.5066991473812426,27292.0819531528
+Portugal,2015,Clothing and footwear,35,3.5,200.0,35,4.375,29608.0071513956
+Romania,2010,Clothing and footwear,42,4.2,232.0,42,5.46875,17354.7164981302
+Romania,2015,Clothing and footwear,45,4.5,212.0,45,5.710659898477157,21624.5759002018
+Serbia,2015,Clothing and footwear,42,4.2,168.0,42,5.048076923076923,15546.3082680414
+Serbia,2020,Clothing and footwear,44,4.4,161.0,44,5.244338498212158,21013.0562995823
+Sweden,2010,Clothing and footwear,47,4.7,150.0,47,5.529411764705882,41951.2525597117
+Sweden,2015,Clothing and footwear,43,4.3,146.0,43,5.035128805620609,48762.7456496975
+Slovenia,2005,Clothing and footwear,70,7.0,125.0,70,8.0,23682.3710849153
+Slovenia,2010,Clothing and footwear,59,5.9,182.0,59,7.212713936430318,27579.428605763
+Slovenia,2015,Clothing and footwear,57,5.7,132.0,57,6.566820276497696,31336.2043858881
+Slovenia,2020,Clothing and footwear,58,5.8,126.0,58,6.636155606407323,41767.2579899957
+Slovakia,2005,Clothing and footwear,56,5.6,91.0,56,6.16061606160616,16570.2574196157
+Slovakia,2010,Clothing and footwear,53,5.3,135.0,53,6.127167630057803,25381.7112298749
+Slovakia,2015,Clothing and footwear,47,4.7,133.0,47,5.4209919261822375,30147.9903672541
+Slovakia,2020,Clothing and footwear,36,3.6,160.0,36,4.285714285714286,35327.9439165588
+Türkiye,2005,Clothing and footwear,63,6.3,122.0,63,7.175398633257403,11803.3604424476
+Türkiye,2010,Clothing and footwear,52,5.2,139.0,52,6.039488966318235,17468.1996643291
+Türkiye,2015,Clothing and footwear,51,5.1,122.0,51,5.808656036446469,25896.983315375
+Türkiye,2020,Clothing and footwear,50,5.0,116.0,50,5.656108597285068,29209.3308866883
+United Kingdom,2005,Clothing and footwear,50,5.0,175.0,50,6.0606060606060606,32831.4184106349
+United Kingdom,2010,Clothing and footwear,56,5.6,0.0,56,5.6,36648.8219451957
+United Kingdom,2015,Clothing and footwear,50,5.0,0.0,50,5.0,42772.4983791214
+Kosovo*,2015,Clothing and footwear,42,4.2,23.0,42,4.298874104401229,8714.91966356132
+Austria,2005,"Housing, water, electricity, gas and other fuels",223,22.3,82.0,141,15.359477124183007,34776.6699535218
+Austria,2010,"Housing, water, electricity, gas and other fuels",238,23.8,89.0,149,16.355653128430298,41735.4574798744
+Austria,2015,"Housing, water, electricity, gas and other fuels",261,26.1,92.0,169,18.612334801762113,49549.3162311441
+Austria,2020,"Housing, water, electricity, gas and other fuels",244,24.4,87.0,157,17.1960569550931,58523.0337816246
+Belgium,2005,"Housing, water, electricity, gas and other fuels",253,25.3,134.0,119,13.74133949191686,33177.8909458158
+Belgium,2010,"Housing, water, electricity, gas and other fuels",267,26.7,131.0,136,15.65017261219793,39839.9772772918
+Belgium,2015,"Housing, water, electricity, gas and other fuels",287,28.7,153.0,134,15.820543093270366,46071.914889496
+Belgium,2020,"Housing, water, electricity, gas and other fuels",318,31.8,184.0,134,16.42156862745098,56120.0958420466
+Bulgaria,2005,"Housing, water, electricity, gas and other fuels",347,34.7,219.0,128,16.389244558258643,10291.425046769
+Bulgaria,2010,"Housing, water, electricity, gas and other fuels",372,37.2,245.0,127,16.821192052980134,14954.2908464673
+Bulgaria,2015,"Housing, water, electricity, gas and other fuels",332,33.2,194.0,138,17.121588089330025,18896.1145714262
+Bulgaria,2020,"Housing, water, electricity, gas and other fuels",346,34.6,217.0,129,16.47509578544061,27351.8659900682
+Cyprus,2005,"Housing, water, electricity, gas and other fuels",216,21.6,137.0,79,9.154113557358054,27763.15234375
+Cyprus,2010,"Housing, water, electricity, gas and other fuels",266,26.6,168.0,98,11.778846153846153,33502.24609375
+Cyprus,2015,"Housing, water, electricity, gas and other fuels",255,25.5,154.0,101,11.93853427895981,31380.220703125
+Cyprus,2020,"Housing, water, electricity, gas and other fuels",255,25.5,154.0,101,11.93853427895981,42569.06640625
+Czechia,2010,"Housing, water, electricity, gas and other fuels",227,22.7,0.0,227,22.7,28153.8518610007
+Czechia,2015,"Housing, water, electricity, gas and other fuels",223,22.3,0.0,223,22.3,34093.0280593748
+Czechia,2020,"Housing, water, electricity, gas and other fuels",243,24.3,0.0,243,24.3,44839.4822099455
+Germany,2005,"Housing, water, electricity, gas and other fuels",296,29.6,116.0,180,20.361990950226243,32313.736788417
+Germany,2010,"Housing, water, electricity, gas and other fuels",303,30.3,118.0,185,20.975056689342402,39713.9503169931
+Germany,2015,"Housing, water, electricity, gas and other fuels",323,32.3,136.0,187,21.64351851851852,48567.1117562648
+Germany,2020,"Housing, water, electricity, gas and other fuels",314,31.4,137.0,177,20.509849362688296,58704.5861986404
+Denmark,2005,"Housing, water, electricity, gas and other fuels",299,29.9,104.0,195,21.763392857142858,34238.3218147437
+Denmark,2010,"Housing, water, electricity, gas and other fuels",312,31.2,109.0,203,22.783389450056116,43037.5989192487
+Denmark,2015,"Housing, water, electricity, gas and other fuels",322,32.2,121.0,201,22.866894197952217,48897.2099776611
+Denmark,2020,"Housing, water, electricity, gas and other fuels",335,33.5,132.0,203,23.387096774193548,62682.2899474389
+Estonia,2005,"Housing, water, electricity, gas and other fuels",299,29.9,171.0,128,15.440289505428227,16638.0779749397
+Estonia,2010,"Housing, water, electricity, gas and other fuels",294,29.4,127.0,167,19.129438717067583,21614.3068307361
+Estonia,2015,"Housing, water, electricity, gas and other fuels",272,27.2,125.0,147,16.8,29712.6299473728
+Estonia,2020,"Housing, water, electricity, gas and other fuels",328,32.8,195.0,133,16.52173913043478,40672.1340402132
+Greece,2005,"Housing, water, electricity, gas and other fuels",240,24.0,142.0,98,11.421911421911421,25003.8297466933
+Greece,2010,"Housing, water, electricity, gas and other fuels",275,27.5,142.0,133,15.5011655011655,27838.73639086
+Greece,2015,"Housing, water, electricity, gas and other fuels",280,28.0,166.0,114,13.66906474820144,26607.7256796976
+Greece,2020,"Housing, water, electricity, gas and other fuels",323,32.3,197.0,126,15.691158156911582,29533.087740299
+Spain,2005,"Housing, water, electricity, gas and other fuels",303,30.3,229.0,74,9.597924773022049,27629.7077024966
+Spain,2010,"Housing, water, electricity, gas and other fuels",300,30.0,200.0,100,12.5,31804.6746571689
+Spain,2015,"Housing, water, electricity, gas and other fuels",318,31.8,209.0,109,13.780025284450064,35228.6333036223
+Spain,2020,"Housing, water, electricity, gas and other fuels",356,35.6,234.0,122,15.926892950391645,39327.8479269599
+Finland,2005,"Housing, water, electricity, gas and other fuels",272,27.2,179.0,93,11.327649208282581,32047.7069315564
+Finland,2010,"Housing, water, electricity, gas and other fuels",267,26.7,162.0,105,12.52983293556086,38946.228265358
+Finland,2015,"Housing, water, electricity, gas and other fuels",315,31.5,151.0,164,19.316843345111895,42257.8593791297
+Finland,2020,"Housing, water, electricity, gas and other fuels",323,32.3,152.0,171,20.16509433962264,53296.5792798852
+France,2005,"Housing, water, electricity, gas and other fuels",263,26.3,120.0,143,16.25,30431.2367240202
+France,2010,"Housing, water, electricity, gas and other fuels",268,26.8,134.0,134,15.473441108545035,35907.5531031574
+France,2015,"Housing, water, electricity, gas and other fuels",289,28.9,150.0,139,16.352941176470587,40905.1767750994
+France,2020,"Housing, water, electricity, gas and other fuels",289,28.9,150.0,139,16.352941176470587,49481.8044309655
+Croatia,2005,"Housing, water, electricity, gas and other fuels",296,29.6,185.0,111,13.61963190184049,15450.6908485826
+Croatia,2010,"Housing, water, electricity, gas and other fuels",323,32.3,204.0,119,14.949748743718592,20139.3171606116
+Croatia,2015,"Housing, water, electricity, gas and other fuels",318,31.8,185.0,133,16.319018404907975,23749.8280957224
+Croatia,2020,"Housing, water, electricity, gas and other fuels",324,32.4,200.0,124,15.5,31594.0082486835
+Hungary,2010,"Housing, water, electricity, gas and other fuels",393,39.3,188.0,205,25.246305418719214,21690.9866477738
+Hungary,2015,"Housing, water, electricity, gas and other fuels",370,37.0,196.0,174,21.64179104477612,26937.7320818864
+Hungary,2020,"Housing, water, electricity, gas and other fuels",492,49.2,376.0,116,18.58974358974359,35583.5855675637
+Ireland,2005,"Housing, water, electricity, gas and other fuels",234,23.4,137.0,97,11.239860950173812,40466.2343515711
+Ireland,2010,"Housing, water, electricity, gas and other fuels",277,27.7,160.0,117,13.928571428571429,43162.9939992062
+Ireland,2015,"Housing, water, electricity, gas and other fuels",317,31.7,188.0,129,15.886699507389162,71519.6014840656
+Ireland,2020,"Housing, water, electricity, gas and other fuels",347,34.7,220.0,127,16.28205128205128,97677.4943055886
+Italy,2010,"Housing, water, electricity, gas and other fuels",323,32.3,196.0,127,15.796019900497512,34974.1045135807
+Italy,2015,"Housing, water, electricity, gas and other fuels",354,35.4,238.0,116,15.223097112860893,37384.3796455406
+Italy,2020,"Housing, water, electricity, gas and other fuels",377,37.7,255.0,122,16.375838926174495,44435.6434393527
+Lithuania,2005,"Housing, water, electricity, gas and other fuels",189,18.9,78.0,111,12.039045553145336,13951.3261880977
+Lithuania,2010,"Housing, water, electricity, gas and other fuels",285,28.5,182.0,103,12.591687041564793,18718.9043711358
+Lithuania,2015,"Housing, water, electricity, gas and other fuels",334,33.4,224.0,110,14.175257731958762,26948.5919371645
+Lithuania,2020,"Housing, water, electricity, gas and other fuels",335,33.5,215.0,120,15.286624203821656,41262.7276941725
+Luxembourg,2005,"Housing, water, electricity, gas and other fuels",301,30.1,197.0,104,12.951432129514322,68787.9115407203
+Luxembourg,2010,"Housing, water, electricity, gas and other fuels",338,33.8,215.0,123,15.668789808917197,90336.0184704033
+Luxembourg,2015,"Housing, water, electricity, gas and other fuels",349,34.9,215.0,134,17.070063694267517,107859.685999308
+Luxembourg,2020,"Housing, water, electricity, gas and other fuels",351,35.1,214.0,137,17.43002544529262,122066.739147202
+Latvia,2005,"Housing, water, electricity, gas and other fuels",171,17.1,57.0,114,12.089077412513255,12825.873779559
+Latvia,2010,"Housing, water, electricity, gas and other fuels",235,23.5,85.0,150,16.39344262295082,16373.4037320495
+Latvia,2015,"Housing, water, electricity, gas and other fuels",237,23.7,95.0,142,15.69060773480663,22543.9183164105
+Latvia,2020,"Housing, water, electricity, gas and other fuels",247,24.7,119.0,128,14.52894438138479,32741.4207691987
+Montenegro,2010,"Housing, water, electricity, gas and other fuels",153,15.3,222.0,-69,-8.868894601542417,13612.3242240322
+Montenegro,2015,"Housing, water, electricity, gas and other fuels",293,29.3,169.0,124,14.921780986762936,16091.7231229959
+Montenegro,2020,"Housing, water, electricity, gas and other fuels",298,29.8,173.0,125,15.114873035066505,20624.7887553398
+North Macedonia,2010,"Housing, water, electricity, gas and other fuels",129,12.9,0.0,129,12.9,11992.2104751893
+North Macedonia,2015,"Housing, water, electricity, gas and other fuels",154,15.4,0.0,154,15.4,15034.1775526118
+Malta,2010,"Housing, water, electricity, gas and other fuels",81,8.1,0.0,81,8.1,28909.2634787626
+Malta,2015,"Housing, water, electricity, gas and other fuels",84,8.4,0.0,84,8.4,38368.726998344
+Malta,2020,"Housing, water, electricity, gas and other fuels",84,8.4,0.0,84,8.4,49971.8904481582
+Netherlands,2005,"Housing, water, electricity, gas and other fuels",256,25.6,102.0,154,17.14922048997773,37778.4864360065
+Netherlands,2010,"Housing, water, electricity, gas and other fuels",286,28.6,115.0,171,19.322033898305083,45301.269581608
+Netherlands,2015,"Housing, water, electricity, gas and other fuels",304,30.4,144.0,160,18.69158878504673,50956.6930942185
+Netherlands,2020,"Housing, water, electricity, gas and other fuels",307,30.7,146.0,161,18.852459016393443,62596.6302027524
+Norway,2005,"Housing, water, electricity, gas and other fuels",262,26.2,115.0,147,16.610169491525422,48189.4962722156
+Norway,2010,"Housing, water, electricity, gas and other fuels",312,31.2,160.0,152,18.095238095238095,59439.3769599791
+Norway,2015,"Housing, water, electricity, gas and other fuels",312,31.2,171.0,141,17.00844390832328,62695.3563994725
+Norway,2020,"Housing, water, electricity, gas and other fuels",353,35.3,198.0,155,19.326683291770575,69779.2862630574
+Poland,2005,"Housing, water, electricity, gas and other fuels",315,31.5,137.0,178,20.625724217844727,13935.5573148214
+Poland,2010,"Housing, water, electricity, gas and other fuels",327,32.7,142.0,185,21.56177156177156,20990.9122325468
+Poland,2015,"Housing, water, electricity, gas and other fuels",340,34.0,164.0,176,21.05263157894737,26988.1069013509
+Poland,2020,"Housing, water, electricity, gas and other fuels",327,32.7,159.0,168,19.976218787158146,37089.3004256812
+Portugal,2005,"Housing, water, electricity, gas and other fuels",266,26.6,186.0,80,9.828009828009828,22725.2774946084
+Portugal,2010,"Housing, water, electricity, gas and other fuels",292,29.2,179.0,113,13.763702801461632,27292.0819531528
+Portugal,2015,"Housing, water, electricity, gas and other fuels",319,31.9,200.0,119,14.875,29608.0071513956
+Romania,2010,"Housing, water, electricity, gas and other fuels",360,36.0,232.0,128,16.666666666666668,17354.7164981302
+Romania,2015,"Housing, water, electricity, gas and other fuels",354,35.4,212.0,142,18.02030456852792,21624.5759002018
+Serbia,2015,"Housing, water, electricity, gas and other fuels",308,30.8,168.0,140,16.826923076923077,15546.3082680414
+Serbia,2020,"Housing, water, electricity, gas and other fuels",298,29.8,161.0,137,16.32896305125149,21013.0562995823
+Sweden,2010,"Housing, water, electricity, gas and other fuels",331,33.1,150.0,181,21.294117647058822,41951.2525597117
+Sweden,2015,"Housing, water, electricity, gas and other fuels",321,32.1,146.0,175,20.491803278688526,48762.7456496975
+Slovenia,2005,"Housing, water, electricity, gas and other fuels",230,23.0,125.0,105,12.0,23682.3710849153
+Slovenia,2010,"Housing, water, electricity, gas and other fuels",298,29.8,182.0,116,14.180929095354523,27579.428605763
+Slovenia,2015,"Housing, water, electricity, gas and other fuels",264,26.4,132.0,132,15.2073732718894,31336.2043858881
+Slovenia,2020,"Housing, water, electricity, gas and other fuels",243,24.3,126.0,117,13.386727688787186,41767.2579899957
+Slovakia,2005,"Housing, water, electricity, gas and other fuels",304,30.4,91.0,213,23.432343234323433,16570.2574196157
+Slovakia,2010,"Housing, water, electricity, gas and other fuels",338,33.8,135.0,203,23.46820809248555,25381.7112298749
+Slovakia,2015,"Housing, water, electricity, gas and other fuels",316,31.6,133.0,183,21.10726643598616,30147.9903672541
+Slovakia,2020,"Housing, water, electricity, gas and other fuels",334,33.4,160.0,174,20.714285714285715,35327.9439165588
+Türkiye,2005,"Housing, water, electricity, gas and other fuels",267,26.7,122.0,145,16.514806378132118,11803.3604424476
+Türkiye,2010,"Housing, water, electricity, gas and other fuels",280,28.0,139.0,141,16.37630662020906,17468.1996643291
+Türkiye,2015,"Housing, water, electricity, gas and other fuels",255,25.5,122.0,133,15.148063781321184,25896.983315375
+Türkiye,2020,"Housing, water, electricity, gas and other fuels",244,24.4,116.0,128,14.479638009049774,29209.3308866883
+United Kingdom,2005,"Housing, water, electricity, gas and other fuels",296,29.6,175.0,121,14.666666666666666,32831.4184106349
+United Kingdom,2010,"Housing, water, electricity, gas and other fuels",180,18.0,0.0,180,18.0,36648.8219451957
+United Kingdom,2015,"Housing, water, electricity, gas and other fuels",188,18.8,0.0,188,18.8,42772.4983791214
+Kosovo*,2015,"Housing, water, electricity, gas and other fuels",296,29.6,23.0,273,27.942681678607983,8714.91966356132
+Austria,2005,"Furnishings, household equipment and routine household maintenance",62,6.2,82.0,62,6.753812636165577,34776.6699535218
+Austria,2010,"Furnishings, household equipment and routine household maintenance",69,6.9,89.0,69,7.574094401756311,41735.4574798744
+Austria,2015,"Furnishings, household equipment and routine household maintenance",70,7.0,92.0,70,7.709251101321586,49549.3162311441
+Austria,2020,"Furnishings, household equipment and routine household maintenance",67,6.7,87.0,67,7.338444687842278,58523.0337816246
+Belgium,2005,"Furnishings, household equipment and routine household maintenance",56,5.6,134.0,56,6.466512702078522,33177.8909458158
+Belgium,2010,"Furnishings, household equipment and routine household maintenance",63,6.3,131.0,63,7.249712313003452,39839.9772772918
+Belgium,2015,"Furnishings, household equipment and routine household maintenance",58,5.8,153.0,58,6.847697756788666,46071.914889496
+Belgium,2020,"Furnishings, household equipment and routine household maintenance",67,6.7,184.0,67,8.21078431372549,56120.0958420466
+Bulgaria,2005,"Furnishings, household equipment and routine household maintenance",30,3.0,219.0,30,3.8412291933418694,10291.425046769
+Bulgaria,2010,"Furnishings, household equipment and routine household maintenance",28,2.8,245.0,28,3.7086092715231787,14954.2908464673
+Bulgaria,2015,"Furnishings, household equipment and routine household maintenance",36,3.6,194.0,36,4.4665012406947895,18896.1145714262
+Bulgaria,2020,"Furnishings, household equipment and routine household maintenance",35,3.5,217.0,35,4.469987228607918,27351.8659900682
+Cyprus,2005,"Furnishings, household equipment and routine household maintenance",59,5.9,137.0,59,6.836616454229432,27763.15234375
+Cyprus,2010,"Furnishings, household equipment and routine household maintenance",57,5.7,168.0,57,6.850961538461538,33502.24609375
+Cyprus,2015,"Furnishings, household equipment and routine household maintenance",52,5.2,154.0,52,6.1465721040189125,31380.220703125
+Cyprus,2020,"Furnishings, household equipment and routine household maintenance",52,5.2,154.0,52,6.1465721040189125,42569.06640625
+Czechia,2010,"Furnishings, household equipment and routine household maintenance",66,6.6,0.0,66,6.6,28153.8518610007
+Czechia,2015,"Furnishings, household equipment and routine household maintenance",63,6.3,0.0,63,6.3,34093.0280593748
+Czechia,2020,"Furnishings, household equipment and routine household maintenance",68,6.8,0.0,68,6.8,44839.4822099455
+Germany,2005,"Furnishings, household equipment and routine household maintenance",54,5.4,116.0,54,6.108597285067873,32313.736788417
+Germany,2010,"Furnishings, household equipment and routine household maintenance",47,4.7,118.0,47,5.328798185941043,39713.9503169931
+Germany,2015,"Furnishings, household equipment and routine household maintenance",49,4.9,136.0,49,5.671296296296297,48567.1117562648
+Germany,2020,"Furnishings, household equipment and routine household maintenance",49,4.9,137.0,49,5.677867902665121,58704.5861986404
+Denmark,2005,"Furnishings, household equipment and routine household maintenance",61,6.1,104.0,61,6.808035714285714,34238.3218147437
+Denmark,2010,"Furnishings, household equipment and routine household maintenance",56,5.6,109.0,56,6.285072951739618,43037.5989192487
+Denmark,2015,"Furnishings, household equipment and routine household maintenance",57,5.7,121.0,57,6.484641638225256,48897.2099776611
+Denmark,2020,"Furnishings, household equipment and routine household maintenance",56,5.6,132.0,56,6.451612903225806,62682.2899474389
+Estonia,2005,"Furnishings, household equipment and routine household maintenance",52,5.2,171.0,52,6.272617611580217,16638.0779749397
+Estonia,2010,"Furnishings, household equipment and routine household maintenance",55,5.5,127.0,55,6.300114547537228,21614.3068307361
+Estonia,2015,"Furnishings, household equipment and routine household maintenance",59,5.9,125.0,59,6.742857142857143,29712.6299473728
+Estonia,2020,"Furnishings, household equipment and routine household maintenance",65,6.5,195.0,65,8.074534161490684,40672.1340402132
+Greece,2005,"Furnishings, household equipment and routine household maintenance",62,6.2,142.0,62,7.226107226107226,25003.8297466933
+Greece,2010,"Furnishings, household equipment and routine household maintenance",56,5.6,142.0,56,6.526806526806527,27838.73639086
+Greece,2015,"Furnishings, household equipment and routine household maintenance",39,3.9,166.0,39,4.676258992805756,26607.7256796976
+Greece,2020,"Furnishings, household equipment and routine household maintenance",34,3.4,197.0,34,4.2341220423412205,29533.087740299
+Spain,2005,"Furnishings, household equipment and routine household maintenance",47,4.7,229.0,47,6.09597924773022,27629.7077024966
+Spain,2010,"Furnishings, household equipment and routine household maintenance",49,4.9,200.0,49,6.125,31804.6746571689
+Spain,2015,"Furnishings, household equipment and routine household maintenance",42,4.2,209.0,42,5.3097345132743365,35228.6333036223
+Spain,2020,"Furnishings, household equipment and routine household maintenance",43,4.3,234.0,43,5.613577023498695,39327.8479269599
+Finland,2005,"Furnishings, household equipment and routine household maintenance",51,5.1,179.0,51,6.211936662606577,32047.7069315564
+Finland,2010,"Furnishings, household equipment and routine household maintenance",48,4.8,162.0,48,5.727923627684964,38946.228265358
+Finland,2015,"Furnishings, household equipment and routine household maintenance",43,4.3,151.0,43,5.064782096584216,42257.8593791297
+Finland,2020,"Furnishings, household equipment and routine household maintenance",42,4.2,152.0,42,4.952830188679245,53296.5792798852
+France,2005,"Furnishings, household equipment and routine household maintenance",61,6.1,120.0,61,6.931818181818182,30431.2367240202
+France,2010,"Furnishings, household equipment and routine household maintenance",49,4.9,134.0,49,5.658198614318707,35907.5531031574
+France,2015,"Furnishings, household equipment and routine household maintenance",48,4.8,150.0,48,5.647058823529412,40905.1767750994
+France,2020,"Furnishings, household equipment and routine household maintenance",48,4.8,150.0,48,5.647058823529412,49481.8044309655
+Croatia,2005,"Furnishings, household equipment and routine household maintenance",41,4.1,185.0,41,5.030674846625767,15450.6908485826
+Croatia,2010,"Furnishings, household equipment and routine household maintenance",39,3.9,204.0,39,4.899497487437186,20139.3171606116
+Croatia,2015,"Furnishings, household equipment and routine household maintenance",37,3.7,185.0,37,4.539877300613497,23749.8280957224
+Croatia,2020,"Furnishings, household equipment and routine household maintenance",50,5.0,200.0,50,6.25,31594.0082486835
+Hungary,2010,"Furnishings, household equipment and routine household maintenance",32,3.2,188.0,32,3.9408866995073892,21690.9866477738
+Hungary,2015,"Furnishings, household equipment and routine household maintenance",32,3.2,196.0,32,3.9800995024875623,26937.7320818864
+Hungary,2020,"Furnishings, household equipment and routine household maintenance",29,2.9,376.0,29,4.647435897435898,35583.5855675637
+Ireland,2005,"Furnishings, household equipment and routine household maintenance",72,7.2,137.0,72,8.342989571263036,40466.2343515711
+Ireland,2010,"Furnishings, household equipment and routine household maintenance",37,3.7,160.0,37,4.404761904761905,43162.9939992062
+Ireland,2015,"Furnishings, household equipment and routine household maintenance",38,3.8,188.0,38,4.679802955665025,71519.6014840656
+Ireland,2020,"Furnishings, household equipment and routine household maintenance",37,3.7,220.0,37,4.743589743589744,97677.4943055886
+Italy,2010,"Furnishings, household equipment and routine household maintenance",51,5.1,196.0,51,6.343283582089552,34974.1045135807
+Italy,2015,"Furnishings, household equipment and routine household maintenance",42,4.2,238.0,42,5.511811023622047,37384.3796455406
+Italy,2020,"Furnishings, household equipment and routine household maintenance",45,4.5,255.0,45,6.040268456375839,44435.6434393527
+Lithuania,2005,"Furnishings, household equipment and routine household maintenance",42,4.2,78.0,42,4.55531453362256,13951.3261880977
+Lithuania,2010,"Furnishings, household equipment and routine household maintenance",41,4.1,182.0,41,5.012224938875305,18718.9043711358
+Lithuania,2015,"Furnishings, household equipment and routine household maintenance",42,4.2,224.0,42,5.412371134020619,26948.5919371645
+Lithuania,2020,"Furnishings, household equipment and routine household maintenance",45,4.5,215.0,45,5.732484076433121,41262.7276941725
+Luxembourg,2005,"Furnishings, household equipment and routine household maintenance",71,7.1,197.0,71,8.84184308841843,68787.9115407203
+Luxembourg,2010,"Furnishings, household equipment and routine household maintenance",63,6.3,215.0,63,8.02547770700637,90336.0184704033
+Luxembourg,2015,"Furnishings, household equipment and routine household maintenance",63,6.3,215.0,63,8.02547770700637,107859.685999308
+Luxembourg,2020,"Furnishings, household equipment and routine household maintenance",65,6.5,214.0,65,8.26972010178117,122066.739147202
+Latvia,2005,"Furnishings, household equipment and routine household maintenance",52,5.2,57.0,52,5.514316012725344,12825.873779559
+Latvia,2010,"Furnishings, household equipment and routine household maintenance",38,3.8,85.0,38,4.1530054644808745,16373.4037320495
+Latvia,2015,"Furnishings, household equipment and routine household maintenance",43,4.3,95.0,43,4.751381215469613,22543.9183164105
+Latvia,2020,"Furnishings, household equipment and routine household maintenance",50,5.0,119.0,50,5.675368898978434,32741.4207691987
+Montenegro,2010,"Furnishings, household equipment and routine household maintenance",39,3.9,222.0,39,5.012853470437018,13612.3242240322
+Montenegro,2015,"Furnishings, household equipment and routine household maintenance",32,3.2,169.0,32,3.8507821901323704,16091.7231229959
+Montenegro,2020,"Furnishings, household equipment and routine household maintenance",37,3.7,173.0,37,4.474002418379686,20624.7887553398
+North Macedonia,2010,"Furnishings, household equipment and routine household maintenance",54,5.4,0.0,54,5.4,11992.2104751893
+North Macedonia,2015,"Furnishings, household equipment and routine household maintenance",52,5.2,0.0,52,5.2,15034.1775526118
+Malta,2010,"Furnishings, household equipment and routine household maintenance",88,8.8,0.0,88,8.8,28909.2634787626
+Malta,2015,"Furnishings, household equipment and routine household maintenance",74,7.4,0.0,74,7.4,38368.726998344
+Malta,2020,"Furnishings, household equipment and routine household maintenance",74,7.4,0.0,74,7.4,49971.8904481582
+Netherlands,2005,"Furnishings, household equipment and routine household maintenance",64,6.4,102.0,64,7.12694877505568,37778.4864360065
+Netherlands,2010,"Furnishings, household equipment and routine household maintenance",57,5.7,115.0,57,6.440677966101695,45301.269581608
+Netherlands,2015,"Furnishings, household equipment and routine household maintenance",51,5.1,144.0,51,5.957943925233645,50956.6930942185
+Netherlands,2020,"Furnishings, household equipment and routine household maintenance",59,5.9,146.0,59,6.908665105386417,62596.6302027524
+Norway,2005,"Furnishings, household equipment and routine household maintenance",65,6.5,115.0,65,7.344632768361582,48189.4962722156
+Norway,2010,"Furnishings, household equipment and routine household maintenance",59,5.9,160.0,59,7.023809523809524,59439.3769599791
+Norway,2015,"Furnishings, household equipment and routine household maintenance",56,5.6,171.0,56,6.7551266586248495,62695.3563994725
+Norway,2020,"Furnishings, household equipment and routine household maintenance",51,5.1,198.0,51,6.359102244389027,69779.2862630574
+Poland,2005,"Furnishings, household equipment and routine household maintenance",45,4.5,137.0,45,5.214368482039397,13935.5573148214
+Poland,2010,"Furnishings, household equipment and routine household maintenance",47,4.7,142.0,47,5.477855477855478,20990.9122325468
+Poland,2015,"Furnishings, household equipment and routine household maintenance",44,4.4,164.0,44,5.2631578947368425,26988.1069013509
+Poland,2020,"Furnishings, household equipment and routine household maintenance",51,5.1,159.0,51,6.064209274673009,37089.3004256812
+Portugal,2005,"Furnishings, household equipment and routine household maintenance",48,4.8,186.0,48,5.896805896805897,22725.2774946084
+Portugal,2010,"Furnishings, household equipment and routine household maintenance",42,4.2,179.0,42,5.115712545676005,27292.0819531528
+Portugal,2015,"Furnishings, household equipment and routine household maintenance",40,4.0,200.0,40,5.0,29608.0071513956
+Romania,2010,"Furnishings, household equipment and routine household maintenance",31,3.1,232.0,31,4.036458333333333,17354.7164981302
+Romania,2015,"Furnishings, household equipment and routine household maintenance",33,3.3,212.0,33,4.187817258883249,21624.5759002018
+Serbia,2015,"Furnishings, household equipment and routine household maintenance",38,3.8,168.0,38,4.5673076923076925,15546.3082680414
+Serbia,2020,"Furnishings, household equipment and routine household maintenance",35,3.5,161.0,35,4.171632896305125,21013.0562995823
+Sweden,2010,"Furnishings, household equipment and routine household maintenance",61,6.1,150.0,61,7.176470588235294,41951.2525597117
+Sweden,2015,"Furnishings, household equipment and routine household maintenance",56,5.6,146.0,56,6.557377049180328,48762.7456496975
+Slovenia,2005,"Furnishings, household equipment and routine household maintenance",58,5.8,125.0,58,6.628571428571429,23682.3710849153
+Slovenia,2010,"Furnishings, household equipment and routine household maintenance",58,5.8,182.0,58,7.090464547677262,27579.428605763
+Slovenia,2015,"Furnishings, household equipment and routine household maintenance",42,4.2,132.0,42,4.838709677419355,31336.2043858881
+Slovenia,2020,"Furnishings, household equipment and routine household maintenance",50,5.0,126.0,50,5.720823798627002,41767.2579899957
+Slovakia,2005,"Furnishings, household equipment and routine household maintenance",42,4.2,91.0,42,4.62046204620462,16570.2574196157
+Slovakia,2010,"Furnishings, household equipment and routine household maintenance",40,4.0,135.0,40,4.624277456647399,25381.7112298749
+Slovakia,2015,"Furnishings, household equipment and routine household maintenance",47,4.7,133.0,47,5.4209919261822375,30147.9903672541
+Slovakia,2020,"Furnishings, household equipment and routine household maintenance",51,5.1,160.0,51,6.071428571428571,35327.9439165588
+Türkiye,2005,"Furnishings, household equipment and routine household maintenance",66,6.6,122.0,66,7.517084282460137,11803.3604424476
+Türkiye,2010,"Furnishings, household equipment and routine household maintenance",61,6.1,139.0,61,7.084785133565622,17468.1996643291
+Türkiye,2015,"Furnishings, household equipment and routine household maintenance",64,6.4,122.0,64,7.289293849658314,25896.983315375
+Türkiye,2020,"Furnishings, household equipment and routine household maintenance",64,6.4,116.0,64,7.239819004524887,29209.3308866883
+United Kingdom,2005,"Furnishings, household equipment and routine household maintenance",65,6.5,175.0,65,7.878787878787879,32831.4184106349
+United Kingdom,2010,"Furnishings, household equipment and routine household maintenance",75,7.5,0.0,75,7.5,36648.8219451957
+United Kingdom,2015,"Furnishings, household equipment and routine household maintenance",75,7.5,0.0,75,7.5,42772.4983791214
+Kosovo*,2015,"Furnishings, household equipment and routine household maintenance",35,3.5,23.0,35,3.5823950870010237,8714.91966356132
+Austria,2005,Health,31,3.1,82.0,31,3.3769063180827885,34776.6699535218
+Austria,2010,Health,35,3.5,89.0,35,3.841931942919868,41735.4574798744
+Austria,2015,Health,38,3.8,92.0,38,4.185022026431718,49549.3162311441
+Austria,2020,Health,42,4.2,87.0,42,4.600219058050383,58523.0337816246
+Belgium,2005,Health,47,4.7,134.0,47,5.427251732101617,33177.8909458158
+Belgium,2010,Health,47,4.7,131.0,47,5.408515535097814,39839.9772772918
+Belgium,2015,Health,46,4.6,153.0,46,5.430932703659977,46071.914889496
+Belgium,2020,Health,51,5.1,184.0,51,6.25,56120.0958420466
+Bulgaria,2005,Health,43,4.3,219.0,43,5.505761843790013,10291.425046769
+Bulgaria,2010,Health,48,4.8,245.0,48,6.357615894039735,14954.2908464673
+Bulgaria,2015,Health,50,5.0,194.0,50,6.20347394540943,18896.1145714262
+Bulgaria,2020,Health,62,6.2,217.0,62,7.918263090676883,27351.8659900682
+Cyprus,2005,Health,47,4.7,137.0,47,5.44611819235226,27763.15234375
+Cyprus,2010,Health,53,5.3,168.0,53,6.3701923076923075,33502.24609375
+Cyprus,2015,Health,52,5.2,154.0,52,6.1465721040189125,31380.220703125
+Cyprus,2020,Health,52,5.2,154.0,52,6.1465721040189125,42569.06640625
+Czechia,2010,Health,29,2.9,0.0,29,2.9,28153.8518610007
+Czechia,2015,Health,27,2.7,0.0,27,2.7,34093.0280593748
+Czechia,2020,Health,31,3.1,0.0,31,3.1,44839.4822099455
+Germany,2005,Health,36,3.6,116.0,36,4.072398190045249,32313.736788417
+Germany,2010,Health,39,3.9,118.0,39,4.421768707482993,39713.9503169931
+Germany,2015,Health,40,4.0,136.0,40,4.62962962962963,48567.1117562648
+Germany,2020,Health,41,4.1,137.0,41,4.750869061413673,58704.5861986404
+Denmark,2005,Health,27,2.7,104.0,27,3.013392857142857,34238.3218147437
+Denmark,2010,Health,27,2.7,109.0,27,3.0303030303030303,43037.5989192487
+Denmark,2015,Health,24,2.4,121.0,24,2.7303754266211606,48897.2099776611
+Denmark,2020,Health,27,2.7,132.0,27,3.110599078341014,62682.2899474389
+Estonia,2005,Health,26,2.6,171.0,26,3.1363088057901085,16638.0779749397
+Estonia,2010,Health,32,3.2,127.0,32,3.665521191294387,21614.3068307361
+Estonia,2015,Health,38,3.8,125.0,38,4.3428571428571425,29712.6299473728
+Estonia,2020,Health,36,3.6,195.0,36,4.472049689440993,40672.1340402132
+Greece,2005,Health,59,5.9,142.0,59,6.876456876456876,25003.8297466933
+Greece,2010,Health,53,5.3,142.0,53,6.177156177156177,27838.73639086
+Greece,2015,Health,64,6.4,166.0,64,7.6738609112709835,26607.7256796976
+Greece,2020,Health,64,6.4,197.0,64,7.970112079701121,29533.087740299
+Spain,2005,Health,22,2.2,229.0,22,2.853437094682231,27629.7077024966
+Spain,2010,Health,32,3.2,200.0,32,4.0,31804.6746571689
+Spain,2015,Health,35,3.5,209.0,35,4.424778761061947,35228.6333036223
+Spain,2020,Health,37,3.7,234.0,37,4.830287206266319,39327.8479269599
+Finland,2005,Health,35,3.5,179.0,35,4.263093788063338,32047.7069315564
+Finland,2010,Health,32,3.2,162.0,32,3.818615751789976,38946.228265358
+Finland,2015,Health,34,3.4,151.0,34,4.004711425206125,42257.8593791297
+Finland,2020,Health,36,3.6,152.0,36,4.245283018867925,53296.5792798852
+France,2005,Health,42,4.2,120.0,42,4.7727272727272725,30431.2367240202
+France,2010,Health,15,1.5,134.0,15,1.7321016166281755,35907.5531031574
+France,2015,Health,16,1.6,150.0,16,1.8823529411764706,40905.1767750994
+France,2020,Health,16,1.6,150.0,16,1.8823529411764706,49481.8044309655
+Croatia,2005,Health,19,1.9,185.0,19,2.331288343558282,15450.6908485826
+Croatia,2010,Health,26,2.6,204.0,26,3.2663316582914574,20139.3171606116
+Croatia,2015,Health,24,2.4,185.0,24,2.9447852760736195,23749.8280957224
+Croatia,2020,Health,25,2.5,200.0,25,3.125,31594.0082486835
+Hungary,2010,Health,40,4.0,188.0,40,4.926108374384237,21690.9866477738
+Hungary,2015,Health,41,4.1,196.0,41,5.099502487562189,26937.7320818864
+Hungary,2020,Health,34,3.4,376.0,34,5.448717948717949,35583.5855675637
+Ireland,2005,Health,25,2.5,137.0,25,2.8968713789107765,40466.2343515711
+Ireland,2010,Health,29,2.9,160.0,29,3.4523809523809526,43162.9939992062
+Ireland,2015,Health,23,2.3,188.0,23,2.832512315270936,71519.6014840656
+Ireland,2020,Health,28,2.8,220.0,28,3.58974358974359,97677.4943055886
+Italy,2010,Health,38,3.8,196.0,38,4.72636815920398,34974.1045135807
+Italy,2015,Health,46,4.6,238.0,46,6.036745406824147,37384.3796455406
+Italy,2020,Health,47,4.7,255.0,47,6.308724832214765,44435.6434393527
+Lithuania,2005,Health,47,4.7,78.0,47,5.097613882863341,13951.3261880977
+Lithuania,2010,Health,40,4.0,182.0,40,4.88997555012225,18718.9043711358
+Lithuania,2015,Health,52,5.2,224.0,52,6.701030927835052,26948.5919371645
+Lithuania,2020,Health,52,5.2,215.0,52,6.624203821656051,41262.7276941725
+Luxembourg,2005,Health,26,2.6,197.0,26,3.2378580323785804,68787.9115407203
+Luxembourg,2010,Health,25,2.5,215.0,25,3.1847133757961785,90336.0184704033
+Luxembourg,2015,Health,24,2.4,215.0,24,3.0573248407643314,107859.685999308
+Luxembourg,2020,Health,26,2.6,214.0,26,3.3078880407124682,122066.739147202
+Latvia,2005,Health,37,3.7,57.0,37,3.9236479321314954,12825.873779559
+Latvia,2010,Health,54,5.4,85.0,54,5.901639344262295,16373.4037320495
+Latvia,2015,Health,58,5.8,95.0,58,6.4088397790055245,22543.9183164105
+Latvia,2020,Health,63,6.3,119.0,63,7.150964812712826,32741.4207691987
+Montenegro,2010,Health,33,3.3,222.0,33,4.241645244215938,13612.3242240322
+Montenegro,2015,Health,35,3.5,169.0,35,4.21179302045728,16091.7231229959
+Montenegro,2020,Health,40,4.0,173.0,40,4.836759371221282,20624.7887553398
+North Macedonia,2010,Health,37,3.7,0.0,37,3.7,11992.2104751893
+North Macedonia,2015,Health,42,4.2,0.0,42,4.2,15034.1775526118
+Malta,2010,Health,63,6.3,0.0,63,6.3,28909.2634787626
+Malta,2015,Health,56,5.6,0.0,56,5.6,38368.726998344
+Malta,2020,Health,56,5.6,0.0,56,5.6,49971.8904481582
+Netherlands,2005,Health,13,1.3,102.0,13,1.447661469933185,37778.4864360065
+Netherlands,2010,Health,14,1.4,115.0,14,1.5819209039548023,45301.269581608
+Netherlands,2015,Health,13,1.3,144.0,13,1.5186915887850467,50956.6930942185
+Netherlands,2020,Health,15,1.5,146.0,15,1.756440281030445,62596.6302027524
+Norway,2005,Health,30,3.0,115.0,30,3.389830508474576,48189.4962722156
+Norway,2010,Health,26,2.6,160.0,26,3.0952380952380953,59439.3769599791
+Norway,2015,Health,26,2.6,171.0,26,3.1363088057901085,62695.3563994725
+Norway,2020,Health,23,2.3,198.0,23,2.8678304239401498,69779.2862630574
+Poland,2005,Health,46,4.6,137.0,46,5.330243337195829,13935.5573148214
+Poland,2010,Health,44,4.4,142.0,44,5.128205128205129,20990.9122325468
+Poland,2015,Health,46,4.6,164.0,46,5.502392344497608,26988.1069013509
+Poland,2020,Health,47,4.7,159.0,47,5.58858501783591,37089.3004256812
+Portugal,2005,Health,61,6.1,186.0,61,7.493857493857494,22725.2774946084
+Portugal,2010,Health,58,5.8,179.0,58,7.064555420219245,27292.0819531528
+Portugal,2015,Health,55,5.5,200.0,55,6.875,29608.0071513956
+Romania,2010,Health,35,3.5,232.0,35,4.557291666666667,17354.7164981302
+Romania,2015,Health,38,3.8,212.0,38,4.822335025380711,21624.5759002018
+Serbia,2015,Health,35,3.5,168.0,35,4.206730769230769,15546.3082680414
+Serbia,2020,Health,39,3.9,161.0,39,4.64839094159714,21013.0562995823
+Sweden,2010,Health,22,2.2,150.0,22,2.588235294117647,41951.2525597117
+Sweden,2015,Health,21,2.1,146.0,21,2.459016393442623,48762.7456496975
+Slovenia,2005,Health,15,1.5,125.0,15,1.7142857142857142,23682.3710849153
+Slovenia,2010,Health,20,2.0,182.0,20,2.444987775061125,27579.428605763
+Slovenia,2015,Health,21,2.1,132.0,21,2.4193548387096775,31336.2043858881
+Slovenia,2020,Health,25,2.5,126.0,25,2.860411899313501,41767.2579899957
+Slovakia,2005,Health,28,2.8,91.0,28,3.08030803080308,16570.2574196157
+Slovakia,2010,Health,30,3.0,135.0,30,3.468208092485549,25381.7112298749
+Slovakia,2015,Health,28,2.8,133.0,28,3.229527104959631,30147.9903672541
+Slovakia,2020,Health,26,2.6,160.0,26,3.0952380952380953,35327.9439165588
+Türkiye,2005,Health,23,2.3,122.0,23,2.6195899772209565,11803.3604424476
+Türkiye,2010,Health,20,2.0,139.0,20,2.3228803716608595,17468.1996643291
+Türkiye,2015,Health,20,2.0,122.0,20,2.277904328018223,25896.983315375
+Türkiye,2020,Health,22,2.2,116.0,22,2.48868778280543,29209.3308866883
+United Kingdom,2005,Health,12,1.2,175.0,12,1.4545454545454546,32831.4184106349
+United Kingdom,2010,Health,12,1.2,0.0,12,1.2,36648.8219451957
+United Kingdom,2015,Health,15,1.5,0.0,15,1.5,42772.4983791214
+Kosovo*,2015,Health,27,2.7,23.0,27,2.7635619242579326,8714.91966356132
+Austria,2005,Transport,161,16.1,82.0,161,17.538126361655774,34776.6699535218
+Austria,2010,Transport,150,15.0,89.0,150,16.46542261251372,41735.4574798744
+Austria,2015,Transport,142,14.2,92.0,142,15.638766519823788,49549.3162311441
+Austria,2020,Transport,139,13.9,87.0,139,15.224534501642935,58523.0337816246
+Belgium,2005,Transport,129,12.9,134.0,129,14.896073903002309,33177.8909458158
+Belgium,2010,Transport,130,13.0,131.0,130,14.959723820483314,39839.9772772918
+Belgium,2015,Transport,130,13.0,153.0,130,15.348288075560802,46071.914889496
+Belgium,2020,Transport,97,9.7,184.0,97,11.887254901960784,56120.0958420466
+Bulgaria,2005,Transport,50,5.0,219.0,50,6.402048655569782,10291.425046769
+Bulgaria,2010,Transport,53,5.3,245.0,53,7.0198675496688745,14954.2908464673
+Bulgaria,2015,Transport,68,6.8,194.0,68,8.436724565756824,18896.1145714262
+Bulgaria,2020,Transport,68,6.8,217.0,68,8.684546615581098,27351.8659900682
+Cyprus,2005,Transport,146,14.6,137.0,146,16.917728852838934,27763.15234375
+Cyprus,2010,Transport,139,13.9,168.0,139,16.70673076923077,33502.24609375
+Cyprus,2015,Transport,120,12.0,154.0,120,14.184397163120567,31380.220703125
+Cyprus,2020,Transport,120,12.0,154.0,120,14.184397163120567,42569.06640625
+Czechia,2010,Transport,112,11.2,0.0,112,11.2,28153.8518610007
+Czechia,2015,Transport,110,11.0,0.0,110,11.0,34093.0280593748
+Czechia,2020,Transport,96,9.6,0.0,96,9.6,44839.4822099455
+Germany,2005,Transport,133,13.3,116.0,133,15.04524886877828,32313.736788417
+Germany,2010,Transport,140,14.0,118.0,140,15.873015873015873,39713.9503169931
+Germany,2015,Transport,134,13.4,136.0,134,15.50925925925926,48567.1117562648
+Germany,2020,Transport,135,13.5,137.0,135,15.643105446118192,58704.5861986404
+Denmark,2005,Transport,138,13.8,104.0,138,15.401785714285714,34238.3218147437
+Denmark,2010,Transport,123,12.3,109.0,123,13.804713804713804,43037.5989192487
+Denmark,2015,Transport,134,13.4,121.0,134,15.244596131968146,48897.2099776611
+Denmark,2020,Transport,143,14.3,132.0,143,16.474654377880185,62682.2899474389
+Estonia,2005,Transport,100,10.0,171.0,100,12.062726176115802,16638.0779749397
+Estonia,2010,Transport,97,9.7,127.0,97,11.11111111111111,21614.3068307361
+Estonia,2015,Transport,115,11.5,125.0,115,13.142857142857142,29712.6299473728
+Estonia,2020,Transport,112,11.2,195.0,112,13.91304347826087,40672.1340402132
+Greece,2005,Transport,104,10.4,142.0,104,12.121212121212121,25003.8297466933
+Greece,2010,Transport,105,10.5,142.0,105,12.237762237762238,27838.73639086
+Greece,2015,Transport,97,9.7,166.0,97,11.630695443645084,26607.7256796976
+Greece,2020,Transport,90,9.0,197.0,90,11.207970112079702,29533.087740299
+Spain,2005,Transport,105,10.5,229.0,105,13.618677042801556,27629.7077024966
+Spain,2010,Transport,124,12.4,200.0,124,15.5,31804.6746571689
+Spain,2015,Transport,115,11.5,209.0,115,14.538558786346396,35228.6333036223
+Spain,2020,Transport,102,10.2,234.0,102,13.315926892950392,39327.8479269599
+Finland,2005,Transport,157,15.7,179.0,157,19.12302070645554,32047.7069315564
+Finland,2010,Transport,175,17.5,162.0,175,20.883054892601432,38946.228265358
+Finland,2015,Transport,155,15.5,151.0,155,18.256772673733803,42257.8593791297
+Finland,2020,Transport,132,13.2,152.0,132,15.566037735849056,53296.5792798852
+France,2005,Transport,135,13.5,120.0,135,15.340909090909092,30431.2367240202
+France,2010,Transport,141,14.1,134.0,141,16.28175519630485,35907.5531031574
+France,2015,Transport,132,13.2,150.0,132,15.529411764705882,40905.1767750994
+France,2020,Transport,132,13.2,150.0,132,15.529411764705882,49481.8044309655
+Croatia,2005,Transport,88,8.8,185.0,88,10.797546012269938,15450.6908485826
+Croatia,2010,Transport,95,9.5,204.0,95,11.93467336683417,20139.3171606116
+Croatia,2015,Transport,106,10.6,185.0,106,13.006134969325153,23749.8280957224
+Croatia,2020,Transport,127,12.7,200.0,127,15.875,31594.0082486835
+Hungary,2010,Transport,89,8.9,188.0,89,10.960591133004925,21690.9866477738
+Hungary,2015,Transport,91,9.1,196.0,91,11.318407960199005,26937.7320818864
+Hungary,2020,Transport,67,6.7,376.0,67,10.737179487179487,35583.5855675637
+Ireland,2005,Transport,116,11.6,137.0,116,13.441483198146003,40466.2343515711
+Ireland,2010,Transport,128,12.8,160.0,128,15.238095238095237,43162.9939992062
+Ireland,2015,Transport,129,12.9,188.0,129,15.886699507389162,71519.6014840656
+Ireland,2020,Transport,112,11.2,220.0,112,14.35897435897436,97677.4943055886
+Italy,2010,Transport,116,11.6,196.0,116,14.427860696517413,34974.1045135807
+Italy,2015,Transport,107,10.7,238.0,107,14.041994750656167,37384.3796455406
+Italy,2020,Transport,94,9.4,255.0,94,12.61744966442953,44435.6434393527
+Lithuania,2005,Transport,81,8.1,78.0,81,8.785249457700651,13951.3261880977
+Lithuania,2010,Transport,80,8.0,182.0,80,9.7799511002445,18718.9043711358
+Lithuania,2015,Transport,81,8.1,224.0,81,10.438144329896907,26948.5919371645
+Lithuania,2020,Transport,94,9.4,215.0,94,11.97452229299363,41262.7276941725
+Luxembourg,2005,Transport,162,16.2,197.0,162,20.17434620174346,68787.9115407203
+Luxembourg,2010,Transport,145,14.5,215.0,145,18.471337579617835,90336.0184704033
+Luxembourg,2015,Transport,141,14.1,215.0,141,17.961783439490446,107859.685999308
+Luxembourg,2020,Transport,163,16.3,214.0,163,20.737913486005088,122066.739147202
+Latvia,2005,Transport,109,10.9,57.0,109,11.558854718981973,12825.873779559
+Latvia,2010,Transport,110,11.0,85.0,110,12.021857923497267,16373.4037320495
+Latvia,2015,Transport,119,11.9,95.0,119,13.149171270718233,22543.9183164105
+Latvia,2020,Transport,128,12.8,119.0,128,14.52894438138479,32741.4207691987
+Montenegro,2010,Transport,88,8.8,222.0,88,11.311053984575835,13612.3242240322
+Montenegro,2015,Transport,88,8.8,169.0,88,10.58965102286402,16091.7231229959
+Montenegro,2020,Transport,75,7.5,173.0,75,9.068923821039903,20624.7887553398
+North Macedonia,2010,Transport,66,6.6,0.0,66,6.6,11992.2104751893
+North Macedonia,2015,Transport,56,5.6,0.0,56,5.6,15034.1775526118
+Malta,2010,Transport,138,13.8,0.0,138,13.8,28909.2634787626
+Malta,2015,Transport,142,14.2,0.0,142,14.2,38368.726998344
+Malta,2020,Transport,142,14.2,0.0,142,14.2,49971.8904481582
+Netherlands,2005,Transport,109,10.9,102.0,109,12.138084632516703,37778.4864360065
+Netherlands,2010,Transport,115,11.5,115.0,115,12.994350282485875,45301.269581608
+Netherlands,2015,Transport,125,12.5,144.0,125,14.602803738317757,50956.6930942185
+Netherlands,2020,Transport,103,10.3,146.0,103,12.06088992974239,62596.6302027524
+Norway,2005,Transport,181,18.1,115.0,181,20.451977401129945,48189.4962722156
+Norway,2010,Transport,163,16.3,160.0,163,19.404761904761905,59439.3769599791
+Norway,2015,Transport,188,18.8,171.0,188,22.67792521109771,62695.3563994725
+Norway,2020,Transport,143,14.3,198.0,143,17.830423940149625,69779.2862630574
+Poland,2005,Transport,81,8.1,137.0,81,9.385863267670915,13935.5573148214
+Poland,2010,Transport,88,8.8,142.0,88,10.256410256410257,20990.9122325468
+Poland,2015,Transport,77,7.7,164.0,77,9.210526315789474,26988.1069013509
+Poland,2020,Transport,79,7.9,159.0,79,9.393579072532699,37089.3004256812
+Portugal,2005,Transport,129,12.9,186.0,129,15.847665847665848,22725.2774946084
+Portugal,2010,Transport,145,14.5,179.0,145,17.66138855054811,27292.0819531528
+Portugal,2015,Transport,141,14.1,200.0,141,17.625,29608.0071513956
+Romania,2010,Transport,46,4.6,232.0,46,5.989583333333333,17354.7164981302
+Romania,2015,Transport,49,4.9,212.0,49,6.218274111675127,21624.5759002018
+Serbia,2015,Transport,80,8.0,168.0,80,9.615384615384615,15546.3082680414
+Serbia,2020,Transport,76,7.6,161.0,76,9.058402860548272,21013.0562995823
+Sweden,2010,Transport,123,12.3,150.0,123,14.470588235294118,41951.2525597117
+Sweden,2015,Transport,137,13.7,146.0,137,16.04215456674473,48762.7456496975
+Slovenia,2005,Transport,156,15.6,125.0,156,17.82857142857143,23682.3710849153
+Slovenia,2010,Transport,132,13.2,182.0,132,16.13691931540342,27579.428605763
+Slovenia,2015,Transport,176,17.6,132.0,176,20.276497695852534,31336.2043858881
+Slovenia,2020,Transport,185,18.5,126.0,185,21.16704805491991,41767.2579899957
+Slovakia,2005,Transport,83,8.3,91.0,83,9.13091309130913,16570.2574196157
+Slovakia,2010,Transport,72,7.2,135.0,72,8.323699421965317,25381.7112298749
+Slovakia,2015,Transport,108,10.8,133.0,108,12.456747404844291,30147.9903672541
+Slovakia,2020,Transport,86,8.6,160.0,86,10.238095238095237,35327.9439165588
+Türkiye,2005,Transport,107,10.7,122.0,107,12.186788154897494,11803.3604424476
+Türkiye,2010,Transport,143,14.3,139.0,143,16.608594657375146,17468.1996643291
+Türkiye,2015,Transport,176,17.6,122.0,176,20.045558086560366,25896.983315375
+Türkiye,2020,Transport,179,17.9,116.0,179,20.248868778280542,29209.3308866883
+United Kingdom,2005,Transport,135,13.5,175.0,135,16.363636363636363,32831.4184106349
+United Kingdom,2010,Transport,154,15.4,0.0,154,15.4,36648.8219451957
+United Kingdom,2015,Transport,154,15.4,0.0,154,15.4,42772.4983791214
+Kosovo*,2015,Transport,44,4.4,23.0,44,4.503582395087001,8714.91966356132
+Austria,2005,Communications,26,2.6,82.0,26,2.832244008714597,34776.6699535218
+Austria,2010,Communications,17,1.7,89.0,17,1.8660812294182216,41735.4574798744
+Austria,2015,Communications,15,1.5,92.0,15,1.6519823788546255,49549.3162311441
+Austria,2020,Communications,19,1.9,87.0,19,2.08105147864184,58523.0337816246
+Belgium,2005,Communications,29,2.9,134.0,29,3.348729792147806,33177.8909458158
+Belgium,2010,Communications,26,2.6,131.0,26,2.991944764096663,39839.9772772918
+Belgium,2015,Communications,30,3.0,153.0,30,3.541912632821724,46071.914889496
+Belgium,2020,Communications,33,3.3,184.0,33,4.044117647058823,56120.0958420466
+Bulgaria,2005,Communications,46,4.6,219.0,46,5.8898847631242,10291.425046769
+Bulgaria,2010,Communications,41,4.1,245.0,41,5.430463576158941,14954.2908464673
+Bulgaria,2015,Communications,42,4.2,194.0,42,5.2109181141439205,18896.1145714262
+Bulgaria,2020,Communications,41,4.1,217.0,41,5.236270753512133,27351.8659900682
+Cyprus,2005,Communications,34,3.4,137.0,34,3.939745075318656,27763.15234375
+Cyprus,2010,Communications,35,3.5,168.0,35,4.206730769230769,33502.24609375
+Cyprus,2015,Communications,41,4.1,154.0,41,4.846335697399527,31380.220703125
+Cyprus,2020,Communications,41,4.1,154.0,41,4.846335697399527,42569.06640625
+Czechia,2010,Communications,48,4.8,0.0,48,4.8,28153.8518610007
+Czechia,2015,Communications,44,4.4,0.0,44,4.4,34093.0280593748
+Czechia,2020,Communications,44,4.4,0.0,44,4.4,44839.4822099455
+Germany,2005,Communications,29,2.9,116.0,29,3.2805429864253393,32313.736788417
+Germany,2010,Communications,27,2.7,118.0,27,3.061224489795918,39713.9503169931
+Germany,2015,Communications,26,2.6,136.0,26,3.009259259259259,48567.1117562648
+Germany,2020,Communications,25,2.5,137.0,25,2.8968713789107765,58704.5861986404
+Denmark,2005,Communications,24,2.4,104.0,24,2.6785714285714284,34238.3218147437
+Denmark,2010,Communications,24,2.4,109.0,24,2.6936026936026938,43037.5989192487
+Denmark,2015,Communications,25,2.5,121.0,25,2.844141069397042,48897.2099776611
+Denmark,2020,Communications,27,2.7,132.0,27,3.110599078341014,62682.2899474389
+Estonia,2005,Communications,55,5.5,171.0,55,6.634499396863691,16638.0779749397
+Estonia,2010,Communications,52,5.2,127.0,52,5.956471935853379,21614.3068307361
+Estonia,2015,Communications,41,4.1,125.0,41,4.685714285714286,29712.6299473728
+Estonia,2020,Communications,40,4.0,195.0,40,4.968944099378882,40672.1340402132
+Greece,2005,Communications,38,3.8,142.0,38,4.428904428904429,25003.8297466933
+Greece,2010,Communications,34,3.4,142.0,34,3.9627039627039626,27838.73639086
+Greece,2015,Communications,35,3.5,166.0,35,4.196642685851319,26607.7256796976
+Greece,2020,Communications,38,3.8,197.0,38,4.732254047322541,29533.087740299
+Spain,2005,Communications,27,2.7,229.0,27,3.501945525291829,27629.7077024966
+Spain,2010,Communications,31,3.1,200.0,31,3.875,31804.6746571689
+Spain,2015,Communications,29,2.9,209.0,29,3.666245259165613,35228.6333036223
+Spain,2020,Communications,35,3.5,234.0,35,4.569190600522194,39327.8479269599
+Finland,2005,Communications,28,2.8,179.0,28,3.41047503045067,32047.7069315564
+Finland,2010,Communications,26,2.6,162.0,26,3.1026252983293556,38946.228265358
+Finland,2015,Communications,26,2.6,151.0,26,3.0624263839811543,42257.8593791297
+Finland,2020,Communications,27,2.7,152.0,27,3.1839622641509435,53296.5792798852
+France,2005,Communications,33,3.3,120.0,33,3.75,30431.2367240202
+France,2010,Communications,29,2.9,134.0,29,3.348729792147806,35907.5531031574
+France,2015,Communications,24,2.4,150.0,24,2.823529411764706,40905.1767750994
+France,2020,Communications,24,2.4,150.0,24,2.823529411764706,49481.8044309655
+Croatia,2005,Communications,43,4.3,185.0,43,5.276073619631902,15450.6908485826
+Croatia,2010,Communications,42,4.2,204.0,42,5.276381909547739,20139.3171606116
+Croatia,2015,Communications,45,4.5,185.0,45,5.521472392638037,23749.8280957224
+Croatia,2020,Communications,42,4.2,200.0,42,5.25,31594.0082486835
+Hungary,2010,Communications,48,4.8,188.0,48,5.911330049261084,21690.9866477738
+Hungary,2015,Communications,58,5.8,196.0,58,7.213930348258707,26937.7320818864
+Hungary,2020,Communications,46,4.6,376.0,46,7.371794871794871,35583.5855675637
+Ireland,2005,Communications,34,3.4,137.0,34,3.939745075318656,40466.2343515711
+Ireland,2010,Communications,35,3.5,160.0,35,4.166666666666667,43162.9939992062
+Ireland,2015,Communications,38,3.8,188.0,38,4.679802955665025,71519.6014840656
+Ireland,2020,Communications,33,3.3,220.0,33,4.230769230769231,97677.4943055886
+Italy,2010,Communications,20,2.0,196.0,20,2.487562189054726,34974.1045135807
+Italy,2015,Communications,25,2.5,238.0,25,3.2808398950131235,37384.3796455406
+Italy,2020,Communications,24,2.4,255.0,24,3.221476510067114,44435.6434393527
+Lithuania,2005,Communications,46,4.6,78.0,46,4.989154013015185,13951.3261880977
+Lithuania,2010,Communications,38,3.8,182.0,38,4.645476772616137,18718.9043711358
+Lithuania,2015,Communications,33,3.3,224.0,33,4.252577319587629,26948.5919371645
+Lithuania,2020,Communications,35,3.5,215.0,35,4.45859872611465,41262.7276941725
+Luxembourg,2005,Communications,22,2.2,197.0,22,2.73972602739726,68787.9115407203
+Luxembourg,2010,Communications,21,2.1,215.0,21,2.6751592356687897,90336.0184704033
+Luxembourg,2015,Communications,25,2.5,215.0,25,3.1847133757961785,107859.685999308
+Luxembourg,2020,Communications,23,2.3,214.0,23,2.926208651399491,122066.739147202
+Latvia,2005,Communications,58,5.8,57.0,58,6.150583244962885,12825.873779559
+Latvia,2010,Communications,46,4.6,85.0,46,5.027322404371585,16373.4037320495
+Latvia,2015,Communications,40,4.0,95.0,40,4.419889502762431,22543.9183164105
+Latvia,2020,Communications,42,4.2,119.0,42,4.767309875141884,32741.4207691987
+Montenegro,2010,Communications,51,5.1,222.0,51,6.5552699228791775,13612.3242240322
+Montenegro,2015,Communications,48,4.8,169.0,48,5.776173285198556,16091.7231229959
+Montenegro,2020,Communications,50,5.0,173.0,50,6.045949214026602,20624.7887553398
+North Macedonia,2010,Communications,41,4.1,0.0,41,4.1,11992.2104751893
+North Macedonia,2015,Communications,34,3.4,0.0,34,3.4,15034.1775526118
+Malta,2010,Communications,40,4.0,0.0,40,4.0,28909.2634787626
+Malta,2015,Communications,43,4.3,0.0,43,4.3,38368.726998344
+Malta,2020,Communications,43,4.3,0.0,43,4.3,49971.8904481582
+Netherlands,2005,Communications,31,3.1,102.0,31,3.4521158129175946,37778.4864360065
+Netherlands,2010,Communications,30,3.0,115.0,30,3.389830508474576,45301.269581608
+Netherlands,2015,Communications,32,3.2,144.0,32,3.7383177570093458,50956.6930942185
+Netherlands,2020,Communications,32,3.2,146.0,32,3.747072599531616,62596.6302027524
+Norway,2005,Communications,26,2.6,115.0,26,2.937853107344633,48189.4962722156
+Norway,2010,Communications,19,1.9,160.0,19,2.261904761904762,59439.3769599791
+Norway,2015,Communications,19,1.9,171.0,19,2.2919179734620023,62695.3563994725
+Norway,2020,Communications,31,3.1,198.0,31,3.865336658354115,69779.2862630574
+Poland,2005,Communications,48,4.8,137.0,48,5.5619930475086905,13935.5573148214
+Poland,2010,Communications,40,4.0,142.0,40,4.662004662004662,20990.9122325468
+Poland,2015,Communications,44,4.4,164.0,44,5.2631578947368425,26988.1069013509
+Poland,2020,Communications,44,4.4,159.0,44,5.231866825208086,37089.3004256812
+Portugal,2005,Communications,30,3.0,186.0,30,3.6855036855036856,22725.2774946084
+Portugal,2010,Communications,33,3.3,179.0,33,4.019488428745432,27292.0819531528
+Portugal,2015,Communications,32,3.2,200.0,32,4.0,29608.0071513956
+Romania,2010,Communications,38,3.8,232.0,38,4.947916666666667,17354.7164981302
+Romania,2015,Communications,40,4.0,212.0,40,5.0761421319796955,21624.5759002018
+Serbia,2015,Communications,45,4.5,168.0,45,5.408653846153846,15546.3082680414
+Serbia,2020,Communications,47,4.7,161.0,47,5.601907032181168,21013.0562995823
+Sweden,2010,Communications,29,2.9,150.0,29,3.411764705882353,41951.2525597117
+Sweden,2015,Communications,32,3.2,146.0,32,3.747072599531616,48762.7456496975
+Slovenia,2005,Communications,40,4.0,125.0,40,4.571428571428571,23682.3710849153
+Slovenia,2010,Communications,41,4.1,182.0,41,5.012224938875305,27579.428605763
+Slovenia,2015,Communications,48,4.8,132.0,48,5.529953917050691,31336.2043858881
+Slovenia,2020,Communications,45,4.5,126.0,45,5.148741418764302,41767.2579899957
+Slovakia,2005,Communications,43,4.3,91.0,43,4.730473047304731,16570.2574196157
+Slovakia,2010,Communications,52,5.2,135.0,52,6.011560693641618,25381.7112298749
+Slovakia,2015,Communications,48,4.8,133.0,48,5.536332179930795,30147.9903672541
+Slovakia,2020,Communications,49,4.9,160.0,49,5.833333333333333,35327.9439165588
+Türkiye,2005,Communications,43,4.3,122.0,43,4.89749430523918,11803.3604424476
+Türkiye,2010,Communications,42,4.2,139.0,42,4.878048780487805,17468.1996643291
+Türkiye,2015,Communications,37,3.7,122.0,37,4.214123006833713,25896.983315375
+Türkiye,2020,Communications,36,3.6,116.0,36,4.072398190045249,29209.3308866883
+United Kingdom,2005,Communications,27,2.7,175.0,27,3.272727272727273,32831.4184106349
+United Kingdom,2010,Communications,31,3.1,0.0,31,3.1,36648.8219451957
+United Kingdom,2015,Communications,34,3.4,0.0,34,3.4,42772.4983791214
+Kosovo*,2015,Communications,28,2.8,23.0,28,2.865916069600819,8714.91966356132
+Austria,2005,Recreation and culture,126,12.6,82.0,126,13.72549019607843,34776.6699535218
+Austria,2010,Recreation and culture,128,12.8,89.0,128,14.050493962678376,41735.4574798744
+Austria,2015,Recreation and culture,115,11.5,92.0,115,12.665198237885463,49549.3162311441
+Austria,2020,Recreation and culture,134,13.4,87.0,134,14.676889375684556,58523.0337816246
+Belgium,2005,Recreation and culture,95,9.5,134.0,95,10.969976905311778,33177.8909458158
+Belgium,2010,Recreation and culture,91,9.1,131.0,91,10.47180667433832,39839.9772772918
+Belgium,2015,Recreation and culture,82,8.2,153.0,82,9.681227863046045,46071.914889496
+Belgium,2020,Recreation and culture,63,6.3,184.0,63,7.720588235294118,56120.0958420466
+Bulgaria,2005,Recreation and culture,29,2.9,219.0,29,3.7131882202304736,10291.425046769
+Bulgaria,2010,Recreation and culture,26,2.6,245.0,26,3.443708609271523,14954.2908464673
+Bulgaria,2015,Recreation and culture,42,4.2,194.0,42,5.2109181141439205,18896.1145714262
+Bulgaria,2020,Recreation and culture,46,4.6,217.0,46,5.874840357598979,27351.8659900682
+Cyprus,2005,Recreation and culture,60,6.0,137.0,60,6.952491309385863,27763.15234375
+Cyprus,2010,Recreation and culture,54,5.4,168.0,54,6.490384615384615,33502.24609375
+Cyprus,2015,Recreation and culture,44,4.4,154.0,44,5.200945626477542,31380.220703125
+Cyprus,2020,Recreation and culture,44,4.4,154.0,44,5.200945626477542,42569.06640625
+Czechia,2010,Recreation and culture,107,10.7,0.0,107,10.7,28153.8518610007
+Czechia,2015,Recreation and culture,99,9.9,0.0,99,9.9,34093.0280593748
+Czechia,2020,Recreation and culture,95,9.5,0.0,95,9.5,44839.4822099455
+Germany,2005,Recreation and culture,111,11.1,116.0,111,12.55656108597285,32313.736788417
+Germany,2010,Recreation and culture,105,10.5,118.0,105,11.904761904761905,39713.9503169931
+Germany,2015,Recreation and culture,103,10.3,136.0,103,11.921296296296296,48567.1117562648
+Germany,2020,Recreation and culture,108,10.8,137.0,108,12.514484356894554,58704.5861986404
+Denmark,2005,Recreation and culture,114,11.4,104.0,114,12.723214285714286,34238.3218147437
+Denmark,2010,Recreation and culture,115,11.5,109.0,115,12.906846240179574,43037.5989192487
+Denmark,2015,Recreation and culture,98,9.8,121.0,98,11.149032992036405,48897.2099776611
+Denmark,2020,Recreation and culture,97,9.7,132.0,97,11.175115207373272,62682.2899474389
+Estonia,2005,Recreation and culture,64,6.4,171.0,64,7.720144752714114,16638.0779749397
+Estonia,2010,Recreation and culture,84,8.4,127.0,84,9.621993127147766,21614.3068307361
+Estonia,2015,Recreation and culture,95,9.5,125.0,95,10.857142857142858,29712.6299473728
+Estonia,2020,Recreation and culture,80,8.0,195.0,80,9.937888198757763,40672.1340402132
+Greece,2005,Recreation and culture,42,4.2,142.0,42,4.895104895104895,25003.8297466933
+Greece,2010,Recreation and culture,39,3.9,142.0,39,4.545454545454546,27838.73639086
+Greece,2015,Recreation and culture,40,4.0,166.0,40,4.796163069544365,26607.7256796976
+Greece,2020,Recreation and culture,28,2.8,197.0,28,3.4869240348692405,29533.087740299
+Spain,2005,Recreation and culture,64,6.4,229.0,64,8.300907911802854,27629.7077024966
+Spain,2010,Recreation and culture,66,6.6,200.0,66,8.25,31804.6746571689
+Spain,2015,Recreation and culture,58,5.8,209.0,58,7.332490518331226,35228.6333036223
+Spain,2020,Recreation and culture,42,4.2,234.0,42,5.483028720626632,39327.8479269599
+Finland,2005,Recreation and culture,112,11.2,179.0,112,13.64190012180268,32047.7069315564
+Finland,2010,Recreation and culture,104,10.4,162.0,104,12.410501193317423,38946.228265358
+Finland,2015,Recreation and culture,92,9.2,151.0,92,10.836277974087162,42257.8593791297
+Finland,2020,Recreation and culture,78,7.8,152.0,78,9.19811320754717,53296.5792798852
+France,2005,Recreation and culture,69,6.9,120.0,69,7.840909090909091,30431.2367240202
+France,2010,Recreation and culture,77,7.7,134.0,77,8.891454965357967,35907.5531031574
+France,2015,Recreation and culture,77,7.7,150.0,77,9.058823529411764,40905.1767750994
+France,2020,Recreation and culture,77,7.7,150.0,77,9.058823529411764,49481.8044309655
+Croatia,2005,Recreation and culture,51,5.1,185.0,51,6.257668711656442,15450.6908485826
+Croatia,2010,Recreation and culture,44,4.4,204.0,44,5.527638190954774,20139.3171606116
+Croatia,2015,Recreation and culture,48,4.8,185.0,48,5.889570552147239,23749.8280957224
+Croatia,2020,Recreation and culture,43,4.3,200.0,43,5.375,31594.0082486835
+Hungary,2010,Recreation and culture,63,6.3,188.0,63,7.758620689655173,21690.9866477738
+Hungary,2015,Recreation and culture,53,5.3,196.0,53,6.592039800995025,26937.7320818864
+Hungary,2020,Recreation and culture,41,4.1,376.0,41,6.57051282051282,35583.5855675637
+Ireland,2005,Recreation and culture,101,10.1,137.0,101,11.703360370799537,40466.2343515711
+Ireland,2010,Recreation and culture,89,8.9,160.0,89,10.595238095238095,43162.9939992062
+Ireland,2015,Recreation and culture,83,8.3,188.0,83,10.22167487684729,71519.6014840656
+Ireland,2020,Recreation and culture,84,8.4,220.0,84,10.76923076923077,97677.4943055886
+Italy,2010,Recreation and culture,56,5.6,196.0,56,6.965174129353234,34974.1045135807
+Italy,2015,Recreation and culture,51,5.1,238.0,51,6.692913385826771,37384.3796455406
+Italy,2020,Recreation and culture,41,4.1,255.0,41,5.503355704697986,44435.6434393527
+Lithuania,2005,Recreation and culture,43,4.3,78.0,43,4.663774403470716,13951.3261880977
+Lithuania,2010,Recreation and culture,39,3.9,182.0,39,4.767726161369193,18718.9043711358
+Lithuania,2015,Recreation and culture,50,5.0,224.0,50,6.443298969072165,26948.5919371645
+Lithuania,2020,Recreation and culture,38,3.8,215.0,38,4.840764331210191,41262.7276941725
+Luxembourg,2005,Recreation and culture,75,7.5,197.0,75,9.339975093399751,68787.9115407203
+Luxembourg,2010,Recreation and culture,73,7.3,215.0,73,9.299363057324841,90336.0184704033
+Luxembourg,2015,Recreation and culture,69,6.9,215.0,69,8.789808917197453,107859.685999308
+Luxembourg,2020,Recreation and culture,58,5.8,214.0,58,7.379134860050891,122066.739147202
+Latvia,2005,Recreation and culture,63,6.3,57.0,63,6.680805938494167,12825.873779559
+Latvia,2010,Recreation and culture,65,6.5,85.0,65,7.103825136612022,16373.4037320495
+Latvia,2015,Recreation and culture,71,7.1,95.0,71,7.845303867403315,22543.9183164105
+Latvia,2020,Recreation and culture,72,7.2,119.0,72,8.172531214528945,32741.4207691987
+Montenegro,2010,Recreation and culture,37,3.7,222.0,37,4.755784061696658,13612.3242240322
+Montenegro,2015,Recreation and culture,29,2.9,169.0,29,3.489771359807461,16091.7231229959
+Montenegro,2020,Recreation and culture,14,1.4,173.0,14,1.6928657799274487,20624.7887553398
+North Macedonia,2010,Recreation and culture,27,2.7,0.0,27,2.7,11992.2104751893
+North Macedonia,2015,Recreation and culture,28,2.8,0.0,28,2.8,15034.1775526118
+Malta,2010,Recreation and culture,84,8.4,0.0,84,8.4,28909.2634787626
+Malta,2015,Recreation and culture,80,8.0,0.0,80,8.0,38368.726998344
+Malta,2020,Recreation and culture,80,8.0,0.0,80,8.0,49971.8904481582
+Netherlands,2005,Recreation and culture,109,10.9,102.0,109,12.138084632516703,37778.4864360065
+Netherlands,2010,Recreation and culture,105,10.5,115.0,105,11.864406779661017,45301.269581608
+Netherlands,2015,Recreation and culture,84,8.4,144.0,84,9.813084112149532,50956.6930942185
+Netherlands,2020,Recreation and culture,77,7.7,146.0,77,9.01639344262295,62596.6302027524
+Norway,2005,Recreation and culture,123,12.3,115.0,123,13.898305084745763,48189.4962722156
+Norway,2010,Recreation and culture,125,12.5,160.0,125,14.880952380952381,59439.3769599791
+Norway,2015,Recreation and culture,99,9.9,171.0,99,11.942098914354645,62695.3563994725
+Norway,2020,Recreation and culture,96,9.6,198.0,96,11.970074812967582,69779.2862630574
+Poland,2005,Recreation and culture,63,6.3,137.0,63,7.300115874855156,13935.5573148214
+Poland,2010,Recreation and culture,74,7.4,142.0,74,8.624708624708624,20990.9122325468
+Poland,2015,Recreation and culture,59,5.9,164.0,59,7.057416267942584,26988.1069013509
+Poland,2020,Recreation and culture,51,5.1,159.0,51,6.064209274673009,37089.3004256812
+Portugal,2005,Recreation and culture,57,5.7,186.0,57,7.002457002457002,22725.2774946084
+Portugal,2010,Recreation and culture,53,5.3,179.0,53,6.455542021924482,27292.0819531528
+Portugal,2015,Recreation and culture,42,4.2,200.0,42,5.25,29608.0071513956
+Romania,2010,Recreation and culture,31,3.1,232.0,31,4.036458333333333,17354.7164981302
+Romania,2015,Recreation and culture,31,3.1,212.0,31,3.934010152284264,21624.5759002018
+Serbia,2015,Recreation and culture,39,3.9,168.0,39,4.6875,15546.3082680414
+Serbia,2020,Recreation and culture,44,4.4,161.0,44,5.244338498212158,21013.0562995823
+Sweden,2010,Recreation and culture,141,14.1,150.0,141,16.58823529411765,41951.2525597117
+Sweden,2015,Recreation and culture,143,14.3,146.0,143,16.74473067915691,48762.7456496975
+Slovenia,2005,Recreation and culture,94,9.4,125.0,94,10.742857142857142,23682.3710849153
+Slovenia,2010,Recreation and culture,90,9.0,182.0,90,11.00244498777506,27579.428605763
+Slovenia,2015,Recreation and culture,72,7.2,132.0,72,8.294930875576037,31336.2043858881
+Slovenia,2020,Recreation and culture,78,7.8,126.0,78,8.924485125858123,41767.2579899957
+Slovakia,2005,Recreation and culture,60,6.0,91.0,60,6.600660066006601,16570.2574196157
+Slovakia,2010,Recreation and culture,72,7.2,135.0,72,8.323699421965317,25381.7112298749
+Slovakia,2015,Recreation and culture,60,6.0,133.0,60,6.920415224913495,30147.9903672541
+Slovakia,2020,Recreation and culture,40,4.0,160.0,40,4.761904761904762,35327.9439165588
+Türkiye,2005,Recreation and culture,25,2.5,122.0,25,2.847380410022779,11803.3604424476
+Türkiye,2010,Recreation and culture,26,2.6,139.0,26,3.0197444831591174,17468.1996643291
+Türkiye,2015,Recreation and culture,29,2.9,122.0,29,3.3029612756264237,25896.983315375
+Türkiye,2020,Recreation and culture,29,2.9,116.0,29,3.2805429864253393,29209.3308866883
+United Kingdom,2005,Recreation and culture,123,12.3,175.0,123,14.909090909090908,32831.4184106349
+United Kingdom,2010,Recreation and culture,136,13.6,0.0,136,13.6,36648.8219451957
+United Kingdom,2015,Recreation and culture,144,14.4,0.0,144,14.4,42772.4983791214
+Kosovo*,2015,Recreation and culture,5,0.5,23.0,5,0.5117707267144319,8714.91966356132
+Austria,2005,Education,8,0.8,82.0,8,0.8714596949891068,34776.6699535218
+Austria,2010,Education,10,1.0,89.0,10,1.0976948408342482,41735.4574798744
+Austria,2015,Education,11,1.1,92.0,11,1.2114537444933922,49549.3162311441
+Austria,2020,Education,12,1.2,87.0,12,1.3143483023001095,58523.0337816246
+Belgium,2005,Education,5,0.5,134.0,5,0.5773672055427251,33177.8909458158
+Belgium,2010,Education,5,0.5,131.0,5,0.5753739930955121,39839.9772772918
+Belgium,2015,Education,5,0.5,153.0,5,0.5903187721369539,46071.914889496
+Belgium,2020,Education,6,0.6,184.0,6,0.7352941176470589,56120.0958420466
+Bulgaria,2005,Education,5,0.5,219.0,5,0.6402048655569782,10291.425046769
+Bulgaria,2010,Education,3,0.3,245.0,3,0.3973509933774834,14954.2908464673
+Bulgaria,2015,Education,5,0.5,194.0,5,0.6203473945409429,18896.1145714262
+Bulgaria,2020,Education,3,0.3,217.0,3,0.3831417624521073,27351.8659900682
+Cyprus,2005,Education,40,4.0,137.0,40,4.634994206257242,27763.15234375
+Cyprus,2010,Education,34,3.4,168.0,34,4.086538461538462,33502.24609375
+Cyprus,2015,Education,45,4.5,154.0,45,5.319148936170213,31380.220703125
+Cyprus,2020,Education,45,4.5,154.0,45,5.319148936170213,42569.06640625
+Czechia,2010,Education,7,0.7,0.0,7,0.7,28153.8518610007
+Czechia,2015,Education,6,0.6,0.0,6,0.6,34093.0280593748
+Czechia,2020,Education,10,1.0,0.0,10,1.0,44839.4822099455
+Germany,2005,Education,8,0.8,116.0,8,0.9049773755656109,32313.736788417
+Germany,2010,Education,8,0.8,118.0,8,0.9070294784580499,39713.9503169931
+Germany,2015,Education,8,0.8,136.0,8,0.9259259259259259,48567.1117562648
+Germany,2020,Education,10,1.0,137.0,10,1.1587485515643106,58704.5861986404
+Denmark,2005,Education,4,0.4,104.0,4,0.44642857142857145,34238.3218147437
+Denmark,2010,Education,6,0.6,109.0,6,0.6734006734006734,43037.5989192487
+Denmark,2015,Education,5,0.5,121.0,5,0.5688282138794084,48897.2099776611
+Denmark,2020,Education,6,0.6,132.0,6,0.6912442396313364,62682.2899474389
+Estonia,2005,Education,13,1.3,171.0,13,1.5681544028950543,16638.0779749397
+Estonia,2010,Education,11,1.1,127.0,11,1.2600229095074456,21614.3068307361
+Estonia,2015,Education,11,1.1,125.0,11,1.2571428571428571,29712.6299473728
+Estonia,2020,Education,8,0.8,195.0,8,0.9937888198757764,40672.1340402132
+Greece,2005,Education,24,2.4,142.0,24,2.797202797202797,25003.8297466933
+Greece,2010,Education,28,2.8,142.0,28,3.2634032634032635,27838.73639086
+Greece,2015,Education,28,2.8,166.0,28,3.357314148681055,26607.7256796976
+Greece,2020,Education,30,3.0,197.0,30,3.7359900373599,29533.087740299
+Spain,2005,Education,11,1.1,229.0,11,1.4267185473411155,27629.7077024966
+Spain,2010,Education,10,1.0,200.0,10,1.25,31804.6746571689
+Spain,2015,Education,14,1.4,209.0,14,1.7699115044247788,35228.6333036223
+Spain,2020,Education,16,1.6,234.0,16,2.088772845953003,39327.8479269599
+Finland,2005,Education,2,0.2,179.0,2,0.243605359317905,32047.7069315564
+Finland,2010,Education,2,0.2,162.0,2,0.2386634844868735,38946.228265358
+Finland,2015,Education,1,0.1,151.0,1,0.11778563015312132,42257.8593791297
+Finland,2020,Education,4,0.4,152.0,4,0.4716981132075472,53296.5792798852
+France,2005,Education,6,0.6,120.0,6,0.6818181818181818,30431.2367240202
+France,2010,Education,5,0.5,134.0,5,0.5773672055427251,35907.5531031574
+France,2015,Education,6,0.6,150.0,6,0.7058823529411765,40905.1767750994
+France,2020,Education,6,0.6,150.0,6,0.7058823529411765,49481.8044309655
+Croatia,2005,Education,6,0.6,185.0,6,0.7361963190184049,15450.6908485826
+Croatia,2010,Education,7,0.7,204.0,7,0.8793969849246231,20139.3171606116
+Croatia,2015,Education,9,0.9,185.0,9,1.1042944785276074,23749.8280957224
+Croatia,2020,Education,6,0.6,200.0,6,0.75,31594.0082486835
+Hungary,2010,Education,7,0.7,188.0,7,0.8620689655172413,21690.9866477738
+Hungary,2015,Education,7,0.7,196.0,7,0.8706467661691543,26937.7320818864
+Hungary,2020,Education,5,0.5,376.0,5,0.8012820512820513,35583.5855675637
+Ireland,2005,Education,19,1.9,137.0,19,2.20162224797219,40466.2343515711
+Ireland,2010,Education,20,2.0,160.0,20,2.380952380952381,43162.9939992062
+Ireland,2015,Education,23,2.3,188.0,23,2.832512315270936,71519.6014840656
+Ireland,2020,Education,14,1.4,220.0,14,1.794871794871795,97677.4943055886
+Italy,2010,Education,8,0.8,196.0,8,0.9950248756218906,34974.1045135807
+Italy,2015,Education,6,0.6,238.0,6,0.7874015748031497,37384.3796455406
+Italy,2020,Education,6,0.6,255.0,6,0.8053691275167785,44435.6434393527
+Lithuania,2005,Education,11,1.1,78.0,11,1.193058568329718,13951.3261880977
+Lithuania,2010,Education,5,0.5,182.0,5,0.6112469437652812,18718.9043711358
+Lithuania,2015,Education,6,0.6,224.0,6,0.7731958762886598,26948.5919371645
+Lithuania,2020,Education,7,0.7,215.0,7,0.89171974522293,41262.7276941725
+Luxembourg,2005,Education,4,0.4,197.0,4,0.49813200498132004,68787.9115407203
+Luxembourg,2010,Education,4,0.4,215.0,4,0.5095541401273885,90336.0184704033
+Luxembourg,2015,Education,8,0.8,215.0,8,1.019108280254777,107859.685999308
+Luxembourg,2020,Education,4,0.4,214.0,4,0.5089058524173028,122066.739147202
+Latvia,2005,Education,14,1.4,57.0,14,1.4846235418875928,12825.873779559
+Latvia,2010,Education,17,1.7,85.0,17,1.8579234972677596,16373.4037320495
+Latvia,2015,Education,12,1.2,95.0,12,1.3259668508287292,22543.9183164105
+Latvia,2020,Education,11,1.1,119.0,11,1.2485811577752555,32741.4207691987
+Montenegro,2010,Education,18,1.8,222.0,18,2.3136246786632393,13612.3242240322
+Montenegro,2015,Education,21,2.1,169.0,21,2.527075812274368,16091.7231229959
+Montenegro,2020,Education,11,1.1,173.0,11,1.3301088270858525,20624.7887553398
+North Macedonia,2010,Education,10,1.0,0.0,10,1.0,11992.2104751893
+North Macedonia,2015,Education,5,0.5,0.0,5,0.5,15034.1775526118
+Malta,2010,Education,17,1.7,0.0,17,1.7,28909.2634787626
+Malta,2015,Education,28,2.8,0.0,28,2.8,38368.726998344
+Malta,2020,Education,28,2.8,0.0,28,2.8,49971.8904481582
+Netherlands,2005,Education,10,1.0,102.0,10,1.1135857461024499,37778.4864360065
+Netherlands,2010,Education,11,1.1,115.0,11,1.2429378531073447,45301.269581608
+Netherlands,2015,Education,13,1.3,144.0,13,1.5186915887850467,50956.6930942185
+Netherlands,2020,Education,11,1.1,146.0,11,1.288056206088993,62596.6302027524
+Norway,2005,Education,3,0.3,115.0,3,0.3389830508474576,48189.4962722156
+Norway,2010,Education,2,0.2,160.0,2,0.23809523809523808,59439.3769599791
+Norway,2015,Education,2,0.2,171.0,2,0.24125452352231605,62695.3563994725
+Norway,2020,Education,6,0.6,198.0,6,0.7481296758104738,69779.2862630574
+Poland,2005,Education,13,1.3,137.0,13,1.5063731170336037,13935.5573148214
+Poland,2010,Education,12,1.2,142.0,12,1.3986013986013985,20990.9122325468
+Poland,2015,Education,9,0.9,164.0,9,1.076555023923445,26988.1069013509
+Poland,2020,Education,9,0.9,159.0,9,1.070154577883472,37089.3004256812
+Portugal,2005,Education,17,1.7,186.0,17,2.0884520884520885,22725.2774946084
+Portugal,2010,Education,22,2.2,179.0,22,2.679658952496955,27292.0819531528
+Portugal,2015,Education,23,2.3,200.0,23,2.875,29608.0071513956
+Romania,2010,Education,6,0.6,232.0,6,0.78125,17354.7164981302
+Romania,2015,Education,3,0.3,212.0,3,0.38071065989847713,21624.5759002018
+Serbia,2015,Education,10,1.0,168.0,10,1.2019230769230769,15546.3082680414
+Serbia,2020,Education,12,1.2,161.0,12,1.430274135876043,21013.0562995823
+Sweden,2010,Education,0,0.0,150.0,0,0.0,41951.2525597117
+Sweden,2015,Education,2,0.2,146.0,2,0.234192037470726,48762.7456496975
+Slovenia,2005,Education,8,0.8,125.0,8,0.9142857142857143,23682.3710849153
+Slovenia,2010,Education,8,0.8,182.0,8,0.9779951100244498,27579.428605763
+Slovenia,2015,Education,9,0.9,132.0,9,1.0368663594470047,31336.2043858881
+Slovenia,2020,Education,8,0.8,126.0,8,0.9153318077803204,41767.2579899957
+Slovakia,2005,Education,8,0.8,91.0,8,0.8800880088008801,16570.2574196157
+Slovakia,2010,Education,4,0.4,135.0,4,0.4624277456647399,25381.7112298749
+Slovakia,2015,Education,7,0.7,133.0,7,0.8073817762399077,30147.9903672541
+Slovakia,2020,Education,4,0.4,160.0,4,0.47619047619047616,35327.9439165588
+Türkiye,2005,Education,19,1.9,122.0,19,2.164009111617312,11803.3604424476
+Türkiye,2010,Education,20,2.0,139.0,20,2.3228803716608595,17468.1996643291
+Türkiye,2015,Education,23,2.3,122.0,23,2.6195899772209565,25896.983315375
+Türkiye,2020,Education,24,2.4,116.0,24,2.7149321266968327,29209.3308866883
+United Kingdom,2005,Education,14,1.4,175.0,14,1.696969696969697,32831.4184106349
+United Kingdom,2010,Education,24,2.4,0.0,24,2.4,36648.8219451957
+United Kingdom,2015,Education,15,1.5,0.0,15,1.5,42772.4983791214
+Kosovo*,2015,Education,5,0.5,23.0,5,0.5117707267144319,8714.91966356132
+Austria,2005,Restaurants and hotels,55,5.5,82.0,55,5.991285403050109,34776.6699535218
+Austria,2010,Restaurants and hotels,57,5.7,89.0,57,6.256860592755214,41735.4574798744
+Austria,2015,Restaurants and hotels,69,6.9,92.0,69,7.599118942731278,49549.3162311441
+Austria,2020,Restaurants and hotels,60,6.0,87.0,60,6.571741511500548,58523.0337816246
+Belgium,2005,Restaurants and hotels,63,6.3,134.0,63,7.274826789838337,33177.8909458158
+Belgium,2010,Restaurants and hotels,64,6.4,131.0,64,7.3647871116225545,39839.9772772918
+Belgium,2015,Restaurants and hotels,63,6.3,153.0,63,7.43801652892562,46071.914889496
+Belgium,2020,Restaurants and hotels,44,4.4,184.0,44,5.392156862745098,56120.0958420466
+Bulgaria,2005,Restaurants and hotels,36,3.6,219.0,36,4.609475032010243,10291.425046769
+Bulgaria,2010,Restaurants and hotels,41,4.1,245.0,41,5.430463576158941,14954.2908464673
+Bulgaria,2015,Restaurants and hotels,43,4.3,194.0,43,5.33498759305211,18896.1145714262
+Bulgaria,2020,Restaurants and hotels,45,4.5,217.0,45,5.747126436781609,27351.8659900682
+Cyprus,2005,Restaurants and hotels,83,8.3,137.0,83,9.617612977983777,27763.15234375
+Cyprus,2010,Restaurants and hotels,85,8.5,168.0,85,10.216346153846153,33502.24609375
+Cyprus,2015,Restaurants and hotels,89,8.9,154.0,89,10.520094562647754,31380.220703125
+Cyprus,2020,Restaurants and hotels,89,8.9,154.0,89,10.520094562647754,42569.06640625
+Czechia,2010,Restaurants and hotels,53,5.3,0.0,53,5.3,28153.8518610007
+Czechia,2015,Restaurants and hotels,59,5.9,0.0,59,5.9,34093.0280593748
+Czechia,2020,Restaurants and hotels,58,5.8,0.0,58,5.8,44839.4822099455
+Germany,2005,Restaurants and hotels,43,4.3,116.0,43,4.864253393665158,32313.736788417
+Germany,2010,Restaurants and hotels,47,4.7,118.0,47,5.328798185941043,39713.9503169931
+Germany,2015,Restaurants and hotels,51,5.1,136.0,51,5.902777777777778,48567.1117562648
+Germany,2020,Restaurants and hotels,60,6.0,137.0,60,6.952491309385863,58704.5861986404
+Denmark,2005,Restaurants and hotels,40,4.0,104.0,40,4.464285714285714,34238.3218147437
+Denmark,2010,Restaurants and hotels,50,5.0,109.0,50,5.611672278338945,43037.5989192487
+Denmark,2015,Restaurants and hotels,51,5.1,121.0,51,5.802047781569966,48897.2099776611
+Denmark,2020,Restaurants and hotels,46,4.6,132.0,46,5.299539170506913,62682.2899474389
+Estonia,2005,Restaurants and hotels,31,3.1,171.0,31,3.7394451145958985,16638.0779749397
+Estonia,2010,Restaurants and hotels,26,2.6,127.0,26,2.9782359679266897,21614.3068307361
+Estonia,2015,Restaurants and hotels,37,3.7,125.0,37,4.228571428571429,29712.6299473728
+Estonia,2020,Restaurants and hotels,35,3.5,195.0,35,4.3478260869565215,40672.1340402132
+Greece,2005,Restaurants and hotels,86,8.6,142.0,86,10.023310023310023,25003.8297466933
+Greece,2010,Restaurants and hotels,96,9.6,142.0,96,11.188811188811188,27838.73639086
+Greece,2015,Restaurants and hotels,88,8.8,166.0,88,10.551558752997602,26607.7256796976
+Greece,2020,Restaurants and hotels,66,6.6,197.0,66,8.219178082191782,29533.087740299
+Spain,2005,Restaurants and hotels,93,9.3,229.0,93,12.062256809338521,27629.7077024966
+Spain,2010,Restaurants and hotels,91,9.1,200.0,91,11.375,31804.6746571689
+Spain,2015,Restaurants and hotels,93,9.3,209.0,93,11.757269279393173,35228.6333036223
+Spain,2020,Restaurants and hotels,65,6.5,234.0,65,8.485639686684074,39327.8479269599
+Finland,2005,Restaurants and hotels,42,4.2,179.0,42,5.115712545676005,32047.7069315564
+Finland,2010,Restaurants and hotels,42,4.2,162.0,42,5.011933174224343,38946.228265358
+Finland,2015,Restaurants and hotels,50,5.0,151.0,50,5.889281507656066,42257.8593791297
+Finland,2020,Restaurants and hotels,49,4.9,152.0,49,5.778301886792453,53296.5792798852
+France,2005,Restaurants and hotels,46,4.6,120.0,46,5.2272727272727275,30431.2367240202
+France,2010,Restaurants and hotels,55,5.5,134.0,55,6.351039260969977,35907.5531031574
+France,2015,Restaurants and hotels,55,5.5,150.0,55,6.470588235294118,40905.1767750994
+France,2020,Restaurants and hotels,55,5.5,150.0,55,6.470588235294118,49481.8044309655
+Croatia,2005,Restaurants and hotels,28,2.8,185.0,28,3.4355828220858897,15450.6908485826
+Croatia,2010,Restaurants and hotels,19,1.9,204.0,19,2.386934673366834,20139.3171606116
+Croatia,2015,Restaurants and hotels,22,2.2,185.0,22,2.6993865030674846,23749.8280957224
+Croatia,2020,Restaurants and hotels,28,2.8,200.0,28,3.5,31594.0082486835
+Hungary,2010,Restaurants and hotels,32,3.2,188.0,32,3.9408866995073892,21690.9866477738
+Hungary,2015,Restaurants and hotels,29,2.9,196.0,29,3.6069651741293534,26937.7320818864
+Hungary,2020,Restaurants and hotels,24,2.4,376.0,24,3.8461538461538463,35583.5855675637
+Ireland,2005,Restaurants and hotels,60,6.0,137.0,60,6.952491309385863,40466.2343515711
+Ireland,2010,Restaurants and hotels,79,7.9,160.0,79,9.404761904761905,43162.9939992062
+Ireland,2015,Restaurants and hotels,64,6.4,188.0,64,7.8817733990147785,71519.6014840656
+Ireland,2020,Restaurants and hotels,66,6.6,220.0,66,8.461538461538462,97677.4943055886
+Italy,2010,Restaurants and hotels,49,4.9,196.0,49,6.0945273631840795,34974.1045135807
+Italy,2015,Restaurants and hotels,49,4.9,238.0,49,6.430446194225722,37384.3796455406
+Italy,2020,Restaurants and hotels,34,3.4,255.0,34,4.563758389261745,44435.6434393527
+Lithuania,2005,Restaurants and hotels,46,4.6,78.0,46,4.989154013015185,13951.3261880977
+Lithuania,2010,Restaurants and hotels,45,4.5,182.0,45,5.50122249388753,18718.9043711358
+Lithuania,2015,Restaurants and hotels,28,2.8,224.0,28,3.6082474226804124,26948.5919371645
+Lithuania,2020,Restaurants and hotels,45,4.5,215.0,45,5.732484076433121,41262.7276941725
+Luxembourg,2005,Restaurants and hotels,79,7.9,197.0,79,9.838107098381071,68787.9115407203
+Luxembourg,2010,Restaurants and hotels,76,7.6,215.0,76,9.681528662420382,90336.0184704033
+Luxembourg,2015,Restaurants and hotels,83,8.3,215.0,83,10.573248407643312,107859.685999308
+Luxembourg,2020,Restaurants and hotels,65,6.5,214.0,65,8.26972010178117,122066.739147202
+Latvia,2005,Restaurants and hotels,53,5.3,57.0,53,5.6203605514316015,12825.873779559
+Latvia,2010,Restaurants and hotels,37,3.7,85.0,37,4.043715846994536,16373.4037320495
+Latvia,2015,Restaurants and hotels,44,4.4,95.0,44,4.861878453038674,22543.9183164105
+Latvia,2020,Restaurants and hotels,48,4.8,119.0,48,5.448354143019296,32741.4207691987
+Montenegro,2010,Restaurants and hotels,23,2.3,222.0,23,2.956298200514139,13612.3242240322
+Montenegro,2015,Restaurants and hotels,25,2.5,169.0,25,3.0084235860409145,16091.7231229959
+Montenegro,2020,Restaurants and hotels,22,2.2,173.0,22,2.660217654171705,20624.7887553398
+North Macedonia,2010,Restaurants and hotels,48,4.8,0.0,48,4.8,11992.2104751893
+North Macedonia,2015,Restaurants and hotels,39,3.9,0.0,39,3.9,15034.1775526118
+Malta,2010,Restaurants and hotels,70,7.0,0.0,70,7.0,28909.2634787626
+Malta,2015,Restaurants and hotels,83,8.3,0.0,83,8.3,38368.726998344
+Malta,2020,Restaurants and hotels,83,8.3,0.0,83,8.3,49971.8904481582
+Netherlands,2005,Restaurants and hotels,56,5.6,102.0,56,6.23608017817372,37778.4864360065
+Netherlands,2010,Restaurants and hotels,61,6.1,115.0,61,6.892655367231638,45301.269581608
+Netherlands,2015,Restaurants and hotels,57,5.7,144.0,57,6.658878504672897,50956.6930942185
+Netherlands,2020,Restaurants and hotels,43,4.3,146.0,43,5.035128805620609,62596.6302027524
+Norway,2005,Restaurants and hotels,38,3.8,115.0,38,4.293785310734464,48189.4962722156
+Norway,2010,Restaurants and hotels,35,3.5,160.0,35,4.166666666666667,59439.3769599791
+Norway,2015,Restaurants and hotels,36,3.6,171.0,36,4.342581423401689,62695.3563994725
+Norway,2020,Restaurants and hotels,43,4.3,198.0,43,5.361596009975062,69779.2862630574
+Poland,2005,Restaurants and hotels,17,1.7,137.0,17,1.969872537659328,13935.5573148214
+Poland,2010,Restaurants and hotels,21,2.1,142.0,21,2.4475524475524475,20990.9122325468
+Poland,2015,Restaurants and hotels,36,3.6,164.0,36,4.30622009569378,26988.1069013509
+Poland,2020,Restaurants and hotels,34,3.4,159.0,34,4.042806183115339,37089.3004256812
+Portugal,2005,Restaurants and hotels,108,10.8,186.0,108,13.267813267813267,22725.2774946084
+Portugal,2010,Restaurants and hotels,104,10.4,179.0,104,12.66747868453106,27292.0819531528
+Portugal,2015,Restaurants and hotels,88,8.8,200.0,88,11.0,29608.0071513956
+Romania,2010,Restaurants and hotels,10,1.0,232.0,10,1.3020833333333333,17354.7164981302
+Romania,2015,Restaurants and hotels,11,1.1,212.0,11,1.3959390862944163,21624.5759002018
+Serbia,2015,Restaurants and hotels,23,2.3,168.0,23,2.764423076923077,15546.3082680414
+Serbia,2020,Restaurants and hotels,27,2.7,161.0,27,3.2181168057210967,21013.0562995823
+Sweden,2010,Restaurants and hotels,38,3.8,150.0,38,4.470588235294118,41951.2525597117
+Sweden,2015,Restaurants and hotels,37,3.7,146.0,37,4.332552693208431,48762.7456496975
+Slovenia,2005,Restaurants and hotels,43,4.3,125.0,43,4.914285714285715,23682.3710849153
+Slovenia,2010,Restaurants and hotels,36,3.6,182.0,36,4.400977995110025,27579.428605763
+Slovenia,2015,Restaurants and hotels,48,4.8,132.0,48,5.529953917050691,31336.2043858881
+Slovenia,2020,Restaurants and hotels,57,5.7,126.0,57,6.521739130434782,41767.2579899957
+Slovakia,2005,Restaurants and hotels,44,4.4,91.0,44,4.84048404840484,16570.2574196157
+Slovakia,2010,Restaurants and hotels,48,4.8,135.0,48,5.5491329479768785,25381.7112298749
+Slovakia,2015,Restaurants and hotels,46,4.6,133.0,46,5.3056516724336795,30147.9903672541
+Slovakia,2020,Restaurants and hotels,54,5.4,160.0,54,6.428571428571429,35327.9439165588
+Türkiye,2005,Restaurants and hotels,44,4.4,122.0,44,5.011389521640091,11803.3604424476
+Türkiye,2010,Restaurants and hotels,50,5.0,139.0,50,5.807200929152149,17468.1996643291
+Türkiye,2015,Restaurants and hotels,62,6.2,122.0,62,7.061503416856492,25896.983315375
+Türkiye,2020,Restaurants and hotels,64,6.4,116.0,64,7.239819004524887,29209.3308866883
+United Kingdom,2005,Restaurants and hotels,80,8.0,175.0,80,9.696969696969697,32831.4184106349
+United Kingdom,2010,Restaurants and hotels,93,9.3,0.0,93,9.3,36648.8219451957
+United Kingdom,2015,Restaurants and hotels,96,9.6,0.0,96,9.6,42772.4983791214
+Kosovo*,2015,Restaurants and hotels,23,2.3,23.0,23,2.3541453428863868,8714.91966356132
+Austria,2005,Miscellaneous goods and services,93,9.3,82.0,93,10.130718954248366,34776.6699535218
+Austria,2010,Miscellaneous goods and services,93,9.3,89.0,93,10.208562019758507,41735.4574798744
+Austria,2015,Miscellaneous goods and services,90,9.0,92.0,90,9.911894273127754,49549.3162311441
+Austria,2020,Miscellaneous goods and services,97,9.7,87.0,97,10.624315443592552,58523.0337816246
+Belgium,2005,Miscellaneous goods and services,119,11.9,134.0,119,13.74133949191686,33177.8909458158
+Belgium,2010,Miscellaneous goods and services,110,11.0,131.0,110,12.658227848101266,39839.9772772918
+Belgium,2015,Miscellaneous goods and services,106,10.6,153.0,106,12.514757969303425,46071.914889496
+Belgium,2020,Miscellaneous goods and services,107,10.7,184.0,107,13.112745098039216,56120.0958420466
+Bulgaria,2005,Miscellaneous goods and services,31,3.1,219.0,31,3.9692701664532652,10291.425046769
+Bulgaria,2010,Miscellaneous goods and services,31,3.1,245.0,31,4.105960264900662,14954.2908464673
+Bulgaria,2015,Miscellaneous goods and services,39,3.9,194.0,39,4.838709677419355,18896.1145714262
+Bulgaria,2020,Miscellaneous goods and services,37,3.7,217.0,37,4.725415070242656,27351.8659900682
+Cyprus,2005,Miscellaneous goods and services,69,6.9,137.0,69,7.995365005793743,27763.15234375
+Cyprus,2010,Miscellaneous goods and services,72,7.2,168.0,72,8.653846153846153,33502.24609375
+Cyprus,2015,Miscellaneous goods and services,75,7.5,154.0,75,8.865248226950355,31380.220703125
+Cyprus,2020,Miscellaneous goods and services,75,7.5,154.0,75,8.865248226950355,42569.06640625
+Czechia,2010,Miscellaneous goods and services,69,6.9,0.0,69,6.9,28153.8518610007
+Czechia,2015,Miscellaneous goods and services,72,7.2,0.0,72,7.2,34093.0280593748
+Czechia,2020,Miscellaneous goods and services,71,7.1,0.0,71,7.1,44839.4822099455
+Germany,2005,Miscellaneous goods and services,113,11.3,116.0,113,12.782805429864254,32313.736788417
+Germany,2010,Miscellaneous goods and services,108,10.8,118.0,108,12.244897959183673,39713.9503169931
+Germany,2015,Miscellaneous goods and services,87,8.7,136.0,87,10.069444444444445,48567.1117562648
+Germany,2020,Miscellaneous goods and services,87,8.7,137.0,87,10.081112398609502,58704.5861986404
+Denmark,2005,Miscellaneous goods and services,93,9.3,104.0,93,10.379464285714286,34238.3218147437
+Denmark,2010,Miscellaneous goods and services,90,9.0,109.0,90,10.1010101010101,43037.5989192487
+Denmark,2015,Miscellaneous goods and services,100,10.0,121.0,100,11.376564277588168,48897.2099776611
+Denmark,2020,Miscellaneous goods and services,82,8.2,132.0,82,9.44700460829493,62682.2899474389
+Estonia,2005,Miscellaneous goods and services,52,5.2,171.0,52,6.272617611580217,16638.0779749397
+Estonia,2010,Miscellaneous goods and services,46,4.6,127.0,46,5.2691867124856815,21614.3068307361
+Estonia,2015,Miscellaneous goods and services,46,4.6,125.0,46,5.257142857142857,29712.6299473728
+Estonia,2020,Miscellaneous goods and services,44,4.4,195.0,44,5.46583850931677,40672.1340402132
+Greece,2005,Miscellaneous goods and services,87,8.7,142.0,87,10.13986013986014,25003.8297466933
+Greece,2010,Miscellaneous goods and services,64,6.4,142.0,64,7.459207459207459,27838.73639086
+Greece,2015,Miscellaneous goods and services,57,5.7,166.0,57,6.83453237410072,26607.7256796976
+Greece,2020,Miscellaneous goods and services,57,5.7,197.0,57,7.098381070983811,29533.087740299
+Spain,2005,Miscellaneous goods and services,58,5.8,229.0,58,7.522697795071336,27629.7077024966
+Spain,2010,Miscellaneous goods and services,76,7.6,200.0,76,9.5,31804.6746571689
+Spain,2015,Miscellaneous goods and services,75,7.5,209.0,75,9.481668773704172,35228.6333036223
+Spain,2020,Miscellaneous goods and services,78,7.8,234.0,78,10.182767624020888,39327.8479269599
+Finland,2005,Miscellaneous goods and services,112,11.2,179.0,112,13.64190012180268,32047.7069315564
+Finland,2010,Miscellaneous goods and services,119,11.9,162.0,119,14.200477326968974,38946.228265358
+Finland,2015,Miscellaneous goods and services,113,11.3,151.0,113,13.30977620730271,42257.8593791297
+Finland,2020,Miscellaneous goods and services,101,10.1,152.0,101,11.910377358490566,53296.5792798852
+France,2005,Miscellaneous goods and services,122,12.2,120.0,122,13.863636363636363,30431.2367240202
+France,2010,Miscellaneous goods and services,137,13.7,134.0,137,15.81986143187067,35907.5531031574
+France,2015,Miscellaneous goods and services,147,14.7,150.0,147,17.294117647058822,40905.1767750994
+France,2020,Miscellaneous goods and services,147,14.7,150.0,147,17.294117647058822,49481.8044309655
+Croatia,2005,Miscellaneous goods and services,62,6.2,185.0,62,7.607361963190184,15450.6908485826
+Croatia,2010,Miscellaneous goods and services,68,6.8,204.0,68,8.542713567839195,20139.3171606116
+Croatia,2015,Miscellaneous goods and services,70,7.0,185.0,70,8.588957055214724,23749.8280957224
+Croatia,2020,Miscellaneous goods and services,60,6.0,200.0,60,7.5,31594.0082486835
+Hungary,2010,Miscellaneous goods and services,52,5.2,188.0,52,6.403940886699507,21690.9866477738
+Hungary,2015,Miscellaneous goods and services,59,5.9,196.0,59,7.338308457711443,26937.7320818864
+Hungary,2020,Miscellaneous goods and services,52,5.2,376.0,52,8.333333333333334,35583.5855675637
+Ireland,2005,Miscellaneous goods and services,109,10.9,137.0,109,12.630359212050985,40466.2343515711
+Ireland,2010,Miscellaneous goods and services,99,9.9,160.0,99,11.785714285714286,43162.9939992062
+Ireland,2015,Miscellaneous goods and services,105,10.5,188.0,105,12.931034482758621,71519.6014840656
+Ireland,2020,Miscellaneous goods and services,97,9.7,220.0,97,12.435897435897436,97677.4943055886
+Italy,2010,Miscellaneous goods and services,71,7.1,196.0,71,8.83084577114428,34974.1045135807
+Italy,2015,Miscellaneous goods and services,75,7.5,238.0,75,9.84251968503937,37384.3796455406
+Italy,2020,Miscellaneous goods and services,73,7.3,255.0,73,9.798657718120806,44435.6434393527
+Lithuania,2005,Miscellaneous goods and services,42,4.2,78.0,42,4.55531453362256,13951.3261880977
+Lithuania,2010,Miscellaneous goods and services,41,4.1,182.0,41,5.012224938875305,18718.9043711358
+Lithuania,2015,Miscellaneous goods and services,45,4.5,224.0,45,5.798969072164948,26948.5919371645
+Lithuania,2020,Miscellaneous goods and services,42,4.2,215.0,42,5.350318471337579,41262.7276941725
+Luxembourg,2005,Miscellaneous goods and services,86,8.6,197.0,86,10.709838107098381,68787.9115407203
+Luxembourg,2010,Miscellaneous goods and services,93,9.3,215.0,93,11.847133757961783,90336.0184704033
+Luxembourg,2015,Miscellaneous goods and services,85,8.5,215.0,85,10.828025477707007,107859.685999308
+Luxembourg,2020,Miscellaneous goods and services,93,9.3,214.0,93,11.83206106870229,122066.739147202
+Latvia,2005,Miscellaneous goods and services,48,4.8,57.0,48,5.090137857900318,12825.873779559
+Latvia,2010,Miscellaneous goods and services,53,5.3,85.0,53,5.7923497267759565,16373.4037320495
+Latvia,2015,Miscellaneous goods and services,52,5.2,95.0,52,5.745856353591161,22543.9183164105
+Latvia,2020,Miscellaneous goods and services,62,6.2,119.0,62,7.037457434733257,32741.4207691987
+Montenegro,2010,Miscellaneous goods and services,49,4.9,222.0,49,6.298200514138817,13612.3242240322
+Montenegro,2015,Miscellaneous goods and services,42,4.2,169.0,42,5.054151624548736,16091.7231229959
+Montenegro,2020,Miscellaneous goods and services,37,3.7,173.0,37,4.474002418379686,20624.7887553398
+North Macedonia,2010,Miscellaneous goods and services,49,4.9,0.0,49,4.9,11992.2104751893
+North Macedonia,2015,Miscellaneous goods and services,50,5.0,0.0,50,5.0,15034.1775526118
+Malta,2010,Miscellaneous goods and services,103,10.3,0.0,103,10.3,28909.2634787626
+Malta,2015,Miscellaneous goods and services,108,10.8,0.0,108,10.8,38368.726998344
+Malta,2020,Miscellaneous goods and services,108,10.8,0.0,108,10.8,49971.8904481582
+Netherlands,2005,Miscellaneous goods and services,168,16.8,102.0,168,18.70824053452116,37778.4864360065
+Netherlands,2010,Miscellaneous goods and services,151,15.1,115.0,151,17.062146892655367,45301.269581608
+Netherlands,2015,Miscellaneous goods and services,140,14.0,144.0,140,16.35514018691589,50956.6930942185
+Netherlands,2020,Miscellaneous goods and services,169,16.9,146.0,169,19.789227166276348,62596.6302027524
+Norway,2005,Miscellaneous goods and services,67,6.7,115.0,67,7.570621468926554,48189.4962722156
+Norway,2010,Miscellaneous goods and services,63,6.3,160.0,63,7.5,59439.3769599791
+Norway,2015,Miscellaneous goods and services,62,6.2,171.0,62,7.478890229191797,62695.3563994725
+Norway,2020,Miscellaneous goods and services,78,7.8,198.0,78,9.72568578553616,69779.2862630574
+Poland,2005,Miscellaneous goods and services,54,5.4,137.0,54,6.257242178447277,13935.5573148214
+Poland,2010,Miscellaneous goods and services,48,4.8,142.0,48,5.594405594405594,20990.9122325468
+Poland,2015,Miscellaneous goods and services,64,6.4,164.0,64,7.655502392344498,26988.1069013509
+Poland,2020,Miscellaneous goods and services,50,5.0,159.0,50,5.945303210463734,37089.3004256812
+Portugal,2005,Miscellaneous goods and services,65,6.5,186.0,65,7.985257985257985,22725.2774946084
+Portugal,2010,Miscellaneous goods and services,63,6.3,179.0,63,7.673568818514007,27292.0819531528
+Portugal,2015,Miscellaneous goods and services,67,6.7,200.0,67,8.375,29608.0071513956
+Romania,2010,Miscellaneous goods and services,29,2.9,232.0,29,3.7760416666666665,17354.7164981302
+Romania,2015,Miscellaneous goods and services,32,3.2,212.0,32,4.060913705583756,21624.5759002018
+Serbia,2015,Miscellaneous goods and services,46,4.6,168.0,46,5.528846153846154,15546.3082680414
+Serbia,2020,Miscellaneous goods and services,50,5.0,161.0,50,5.959475566150179,21013.0562995823
+Sweden,2010,Miscellaneous goods and services,61,6.1,150.0,61,7.176470588235294,41951.2525597117
+Sweden,2015,Miscellaneous goods and services,65,6.5,146.0,65,7.611241217798595,48762.7456496975
+Slovenia,2005,Miscellaneous goods and services,93,9.3,125.0,93,10.628571428571428,23682.3710849153
+Slovenia,2010,Miscellaneous goods and services,92,9.2,182.0,92,11.246943765281173,27579.428605763
+Slovenia,2015,Miscellaneous goods and services,101,10.1,132.0,101,11.63594470046083,31336.2043858881
+Slovenia,2020,Miscellaneous goods and services,97,9.7,126.0,97,11.098398169336384,41767.2579899957
+Slovakia,2005,Miscellaneous goods and services,60,6.0,91.0,60,6.600660066006601,16570.2574196157
+Slovakia,2010,Miscellaneous goods and services,40,4.0,135.0,40,4.624277456647399,25381.7112298749
+Slovakia,2015,Miscellaneous goods and services,72,7.2,133.0,72,8.304498269896193,30147.9903672541
+Slovakia,2020,Miscellaneous goods and services,92,9.2,160.0,92,10.952380952380953,35327.9439165588
+Türkiye,2005,Miscellaneous goods and services,39,3.9,122.0,39,4.4419134396355355,11803.3604424476
+Türkiye,2010,Miscellaneous goods and services,40,4.0,139.0,40,4.645760743321719,17468.1996643291
+Türkiye,2015,Miscellaneous goods and services,42,4.2,122.0,42,4.783599088838269,25896.983315375
+Türkiye,2020,Miscellaneous goods and services,41,4.1,116.0,41,4.638009049773756,29209.3308866883
+United Kingdom,2005,Miscellaneous goods and services,76,7.6,175.0,76,9.212121212121213,32831.4184106349
+United Kingdom,2010,Miscellaneous goods and services,85,8.5,0.0,85,8.5,36648.8219451957
+United Kingdom,2015,Miscellaneous goods and services,84,8.4,0.0,84,8.4,42772.4983791214
+Kosovo*,2015,Miscellaneous goods and services,27,2.7,23.0,27,2.7635619242579326,8714.91966356132
