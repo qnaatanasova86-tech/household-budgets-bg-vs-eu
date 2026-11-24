@@ -1,4 +1,4 @@
-# Household Expenditure Structure: Bulgaria vs the EU
+# Household Expenditure Structure: Bulgaria vs European Countries
 
 Final exam project, Data Science module.
 
@@ -7,7 +7,7 @@ Final exam project, Data Science module.
 
 ## Project Goal
 
-This project examines how households in Bulgaria allocate their budgets across the main spending categories (food, housing, transport, health, etc.) and how this profile differs from other EU countries.
+This project examines how households in Bulgaria allocate their budgets across the main spending categories (food, housing, transport, health, etc.) and how this profile differs from other European countries.
 
 ## Research Questions
 
@@ -34,7 +34,7 @@ Full details for every file (URL, download date, applied filters) will be added 
 3. Cleaning and validation
 4. Merging by country, year and COICOP category
 5. Exploratory data analysis (EDA)
-6. Bulgaria vs the EU comparison
+6. Bulgaria vs European comparison
 7. Clustering of countries (K-means, PCA)
 8. Regression: food share vs income per capita
 9. Conclusions, limitations and next steps
