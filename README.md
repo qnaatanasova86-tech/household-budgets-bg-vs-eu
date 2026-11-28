@@ -36,7 +36,7 @@ The main analysis uses the survey waves 2005, 2010, 2015 and 2020. Imputed rent 
 ## Main Results
 
 - Bulgaria's food share (excluding imputed rent) fell from 40.3% in 2005 to 31.4% in 2020.
-- In 2020 it was the third highest of the 28 countries in the sample, behind Montenegro and Serbia. Romania and Portugal are not in the 2020 sample because imputed rent is not available for them.
+- In 2020 it was the third-highest of the 28 countries in the sample, behind Montenegro and Serbia. Romania and Portugal are not in the 2020 sample because imputed rent is not available for them.
 - By Euclidean distance of the spending shares, the countries closest to Bulgaria in 2020 were Lithuania, Serbia and Poland.
 - The food share falls as GDP per capita rises, consistent with Engel's law (elasticity -0.71 in the log-log model).
 - Bulgaria's food share is above the model prediction in all four waves.
